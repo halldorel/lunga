@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!--
+
+  Design by Studio Holt (studioholt@studioholt.is)
+  Programming by Halldór Eldjárn (halldor@eldjarn.is)
+
+  Reykjavík, April 2018
+
+-->
+<html>
+  {% include head.html %}
+  <body {% if page.is_front %} class="main__body" {% endif %} >
+    {% include header.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
