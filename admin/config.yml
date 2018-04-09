@@ -30,3 +30,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "concert_images"
+    label: "Concert Images"
+    widget: "list"
+    field:
+      - {label: Image, name: concert_images, widget: image}

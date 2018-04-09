@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="home__cover" style="background-image: url('{{ page.cover_photo }}')">
+  <div class="home__logo">
+    <img src="/assets/img/logo-white.svg" alt="LungA 2018 logo" />
+    <p class="logo__tagline">LISTAHÁTÍÐ — SEYÐISFJÖRÐUR — 15.&nbsp;–&nbsp;22.&nbsp;JÚLÍ&nbsp;2018</p>
+  </div>
+</div>
+
+<nav class="main__nav">
+  <ul>
+    <li>
+      <a href="" class="nav__item">Tónlistarhátíð</a>
+    </li>
+    <li>
+      <a href="" class="nav__item">Listahátíð</a>
+    </li>
+    <li>
+      <a href="" class="nav__item nav__item--boxed">Kaupa miða</a>
+    </li>
+    <li>
+      <a href="" class="nav__item">Hvernig kemst ég?</a>
+    </li>
+    <li>
+      <a href="" class="nav__item">Um LungA</a>
+    </li>
+  </ul>
+</nav>
+
+<section class="home__concert">
+  <div class="frame__text" data-content="Tónlistarhátíð">
+    <div class="frame__text--right text"></div>
+    <div class="frame__text--left text"></div>
+    <div class="frame__text--bottom text"></div>
+    <div class="frame__text--top text"></div>
+
+  </div>
+  <div class="concert__dates">
+    
+  </div>
+  <div class="concert__widget">
+    <div class="arrow--left">
+      <a href="#">
+        <img src="/assets/img/arrow.svg" alt="arrow left" />
+      </a>
+    </div>
+    <div class="arrow--right">
+      <a href="#">
+        <img src="/assets/img/arrow.svg" alt="arrow right" />
+      </a>
+    </div>
+
+    <div class="images__container">
+      {% for image in page.concert_images %}
+        <img src="{{ image }}" alt="Concert image" />
+      {% endfor %}
+    </div>
+  </div>
+</section>

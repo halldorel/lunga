@@ -1,0 +1,267 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+    "normalize.css",
+    "fonts.css",
+      "base",
+      "../neat/neat"
+;
+
+* {
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+$grid: (
+  columns: 1,
+  gutter: 2rem,
+);
+
+$grid--tablet-up: (
+  columns: 12,
+  gutter: 2rem,
+  media: "(min-width: 800px)",
+);
+
+$grid--mobile-up: (
+  columns: 12,
+  gutter: 2rem,
+  media: "(min-width:500px) and (max-width:800px)",
+);
+
+$grid--mobile-only: (
+  columns: 12,
+  gutter: 2rem,
+  media: "(max-width:800px)",
+);
+
+$no-gutter: (
+  columns: 1,
+  gutter: 0,
+);
+
+$no-gutter--tablet-up: (
+  columns: 12,
+  gutter: 0,
+    media: "(min-width: 800px)",
+);
+
+@mixin rather {
+  font-family: "Rather";
+  font-weight: normal;
+}
+
+@mixin rather-semi {
+  font-family: "Rather";
+  font-weight: 600;
+}
+
+@mixin rather-block {
+  font-family: "Rather";
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  font-size: 14px;
+}
+
+@mixin cover-photo {
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  font-family: "Rather", "Arial", sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.header__logo {
+  background: url('/assets/img/logo.svg');
+  background-position: center 10px; 
+  background-repeat: no-repeat;
+  height: 44px;
+  background-size: auto 30px;
+}
+.page-content {
+  margin-bottom: 45px;
+}
+
+/** HOME **/
+
+.home__cover {
+  max-height: 646px;
+  display: table;
+  width: 100vw;
+  height: 100vh;
+  @include cover-photo;
+}
+
+.home__logo {
+  text-align: center;
+  padding: 20px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.logo__tagline {
+  @include rather-block;
+  margin-top: 30px;
+  color: #fff;
+}
+
+/** NAV **/
+
+.main__nav {
+  background: $red;
+  display: block;
+  position: fixed;
+  bottom: 0; 
+  left: 0; 
+  right: 0; 
+  height: 44px;
+  z-index: 10;
+
+  ul {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+  }
+  li {
+    display: table-cell;
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
+  }
+}
+
+.nav__item {
+  @include rather-block;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 4px 8px;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.nav__item--boxed {
+  border: 1px solid #fff;
+  &:hover {
+    text-decoration: none;
+    background: #fff;
+    color: $red;
+  }
+}
+
+/** CONCERT WIDGET **/
+.home__concert {
+  position: relative;
+  display: table;
+  height: 660px;
+}
+.concert__widget {
+  display: table-cell;
+  width: 50%;
+  position: relative;
+  padding: 50px;
+}
+
+.concert__dates {
+  display: table-cell;
+  width: 50%;
+}
+
+.concert__text {
+
+}
+
+.concert__images {
+  display: table-cell;
+  width: 50%;
+}
+
+.arrow--left {
+  img {
+    transform: rotate(180deg);
+  }
+  position: absolute;
+  bottom: 0; top: 48%; left: 20%; 
+  margin: auto;
+}
+
+.arrow--right {
+  position: absolute;
+  bottom: 0; top: 48%; right: 20%; 
+  margin: auto;
+}
+
+.concert__images {
+
+}
+
+.images__container {
+
+}
+
+.images__container img {
+  width: 50%;
+}
+
+/** TEXT FRAME **/
+
+.frame__text {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: -1;
+  width: 100vw;
+  overflow: hidden;
+  .text {
+    @include rather-block;
+    font-size: 13px;
+    padding: 0.4em;
+    text-transform: uppercase;
+    overflow: hidden;
+    height: 1.1em;
+    line-height: 1.5em;
+    color: #000;
+    span {
+      text-decoration: underline;
+      padding-left: 4px;
+    }
+  }
+}
+
+.frame__text--top {
+  width: 110vw;
+  background: #fff;
+  position: absolute;
+  top: 0;
+}
+
+.frame__text--right {
+  transform: rotate(90deg) translateY(-49vw);
+  height: 100vh;
+  z-index: 1;
+}
+
+.frame__text--bottom {
+  width: 110vw;
+  background: #fff;
+  transform: rotate(180);
+  position: absolute;
+  bottom: 0;
+}
+
+.frame__text--left {
+  transform: rotate(270deg) translateY(-49vw) translateX(-50vh);
+  height: 100vh;
+}
+
