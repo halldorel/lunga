@@ -18,6 +18,13 @@
   font-smoothing: antialiased;
 }
 
+::selection {
+  background: $red; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: $red; /* Gecko Browsers */
+}
+
 $grid: (
   columns: 1,
   gutter: 2rem,
@@ -87,6 +94,25 @@ p {
   height: 44px;
   background-size: auto 30px;
 }
+
+.header__hamburger {
+  position: absolute;
+  right: 13px; top: 13px;
+  cursor: pointer;
+  @include grid-media($grid--tablet-up) {
+    display: none;
+  }
+}
+
+.header__nav--mobile {
+  display: block;
+  background: #fff !important;
+  margin-bottom: 20px;
+  @include grid-media($grid--tablet-up) {
+    display: none;
+  }
+}
+
 .page-content {
   margin-bottom: 45px;
 }
@@ -99,6 +125,7 @@ p {
   width: 100vw;
   height: 100vh;
   @include cover-photo;
+  user-select: none;
 }
 
 .home__logo {
@@ -123,64 +150,130 @@ p {
   bottom: 0; 
   left: 0; 
   right: 0; 
-  height: 44px;
-  z-index: 10;
+
+  height: 100vh;
 
   ul {
     list-style: none;
     margin: 0; padding: 0;
-    display: table;
-    width: 100%;
-    height: 100%;
   }
+
   li {
-    display: table-cell;
-    width: 20%;
     text-align: center;
+    display: table;
     vertical-align: middle;
   }
+  display: none;
+  @include grid-media($grid--tablet-up) {
+    display: block;
+    height: 44px;
+    ul {
+      display: table;
+      width: 100%;
+      height: 100%;
+    }
+    li {
+      display: table-cell;
+      vertical-align: middle;
+      width: 20%;
+      text-align: center;
+      vertical-align: middle;
+    }
+  }
+
+  z-index: 10;
 }
 
 .nav__item {
   @include rather-block;
   color: #fff;
-  text-transform: uppercase;
+  font-size: 30px;
+
+  display: block;
+  width: 100vw;
+  margin-top: 30px;
+
+  @include grid-media($grid--tablet-up) {
+    display: inline;
+    font-size: 14px;  
+    height: auto;
+    text-transform: uppercase;
+    padding: 4px 8px;
+  }
+
   text-decoration: none;
-  padding: 4px 8px;
   &:hover {
     text-decoration: underline;
   }
 }
 
-.nav__item--boxed {
-  border: 1px solid #fff;
-  &:hover {
-    text-decoration: none;
-    background: #fff;
-    color: $red;
+@include grid-media($grid--tablet-up) {
+  .nav__item--boxed {
+    border: 1px solid #fff;
+    &:hover {
+      text-decoration: none;
+      background: #fff;
+      color: $red;
+    }
   }
 }
 
 /** CONCERT WIDGET **/
 .home__concert {
   position: relative;
-  display: table;
+
+    height: 1320px;
+  @include grid-media($grid--tablet-up) {
   height: 660px;
+  }
 }
 .concert__widget {
-  display: table-cell;
-  width: 50%;
+  width: 100%;
+  @include grid-media($grid--tablet-up) {
+    position: absolute; right: 0; top: 0;
+    display: inline-block;
+    width: 50%;
+  }
+  height: 660px;
   position: relative;
-  padding: 50px;
 }
 
 .concert__dates {
-  display: table-cell;
-  width: 50%;
+  display: block;
+  @include grid-media($grid--tablet-up) {
+    position: absolute; left: 0; top: 0;
+    display: inline-block;
+    width: 50%;
+  }
+  width: 100%;
 }
 
 .concert__text {
+  
+}
 
+.concert__title, .concert__buy {
+  @include rather-semi;
+  text-transform: uppercase;
+  color: $red;
+  text-decoration: underline; 
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  padding: 100px;
+}
+
+a.concert__buy {
+  display: block;
+  text-align: center;
+}
+
+.concert__date {
+  @include rather-semi;
+  text-transform: uppercase;
+  color: #000;
+  font-size: 50px;
+  text-align: center;
 }
 
 .concert__images {
@@ -208,11 +301,24 @@ p {
 }
 
 .images__container {
-
+  margin: auto;
+  width: 50%;
+  height: 80%;
+  display: block;
 }
 
 .images__container img {
   width: 50%;
+  max-height: 500px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 25%; right: 25%; bottom: 0;
+  z-index: -1;
+  opacity: 0;
+}
+
+.visible {
+  opacity: 1 !important;
 }
 
 /** TEXT FRAME **/
@@ -247,8 +353,8 @@ p {
 }
 
 .frame__text--right {
-  transform: rotate(90deg) translateY(-49vw);
-  height: 100vh;
+  width: 100vh;
+  /*transform: rotate(90deg);*/
   z-index: 1;
 }
 
@@ -261,7 +367,19 @@ p {
 }
 
 .frame__text--left {
-  transform: rotate(270deg) translateY(-49vw) translateX(-50vh);
-  height: 100vh;
+  position: absolute;
+  top: 50%;
+  left: -100vw;
+  width: 100%;
+  height: 20px;
+  background: red;
+  transform: rotate(-90deg);
+  text-align: right;
 }
+
+/*
+
+  
+
+*/
 
