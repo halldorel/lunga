@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Tail photo", name: "tail_photo", widget: "image"}
-      - {label: "Heading color", name: "heading_color", options: ["#DE7464", "#2A6F55", "#E6A931", "#151A41"]}
+      - {label: "Heading color", widget: "select", name: "heading_color", options: ["#DE7464", "#2A6F55", "#E6A931", "#151A41"]}
 
   - name: "home"
     label: "Home page"
