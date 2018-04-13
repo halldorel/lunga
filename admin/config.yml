@@ -33,8 +33,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tail photo", name: "tail_photo", widget: "image"}
       - {label: "Heading color", name: "heading_color", options: ["#DE7464", "#2A6F55", "#E6A931", "#151A41"]}
 
-  - name: "front_page"
-    label: "Front page"
-    folder: "pages"
+  - name: "home"
+    label: "Home page"
+    folder: "home"
     fields:
-      - {name: "concert_images", label: "Concert Images", widget: "list", field: {label: Image, name: concert_images, widget: image}}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/"}
+      - {label: "Cover photo", name: "cover_photo", widget: "image"}
+      - {label: "Concert Images", name: "concert_images", widget: "list", field: {label: Image, name: concert_images, widget: image}}
