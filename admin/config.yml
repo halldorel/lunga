@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "page"
     label: "Page"
     folder: "pages"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
@@ -31,11 +31,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Tail photo", name: "tail_photo", widget: "image"}
-
       - {label: "Heading color", name: "heading_color", options: ["#DE7464", "#2A6F55", "#E6A931", "#151A41"]}
 
-  - name: "concert_images"
-    label: "Concert Images"
-    widget: "list"
-    field:
-      - {label: Image, name: concert_images, widget: image}
+  - name: "front_page"
+    label: "Front page"
+    folder: "pages"
+    fields:
+      - {name: "concert_images", label: "Concert Images", widget: "list", field: {label: Image, name: concert_images, widget: image}}
