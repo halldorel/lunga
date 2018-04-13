@@ -433,7 +433,7 @@ a.concert__buy {
   }
 
   @include grid-media($grid--tablet-up) {
-    width: 935px;
+    max-width: 935px;
     margin: auto;
   }
 }
