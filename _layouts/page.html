@@ -2,4 +2,26 @@
 layout: default
 ---
 
-{{ content }}
+{% include navigation.html %}
+
+<section class="page__container">
+  <style type="text/css">
+    h1, h2, h3, h4, h5, h6 {
+      color: {{ page.heading_color }};
+    }
+  </style>
+  <h1>{{ page.title }}</h1>
+
+  {% if page.cover_photo %}
+  <img src="{{ page.cover_photo }}" />
+  {% endif %}
+
+    {{ content }}
+
+  {% if page.tail_photo %}
+    <img src="{{ page.tail_photo }}" />
+  {% endif %}
+
+
+</section>
+

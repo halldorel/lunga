@@ -81,6 +81,13 @@ $no-gutter--tablet-up: (
   background-position: center;
 }
 
+body {
+  overflow-x: hidden;
+  @include grid-media($grid--tablet-up) {
+    overflow-x: visible;
+  }
+}
+
 p {
   font-family: "Rather", "Arial", sans-serif;
   font-weight: normal;
@@ -93,6 +100,10 @@ p {
   background-repeat: no-repeat;
   height: 44px;
   background-size: auto 30px;
+  a {
+    display: block;
+    width: 100%; height: 100%;
+  }
 }
 
 .header__hamburger {
@@ -377,9 +388,52 @@ a.concert__buy {
   text-align: right;
 }
 
-/*
+/** SUBPAGE LAYOUT **/
+.page__container {
+  width: calc(100% - 40px);
+  margin: auto;
+  padding: 20px;
+  h1, h2, h3, h4, h5, h6, p {
+    @include rather-semi;
+    text-align: center;
 
-  
+    @include grid-media($grid--tablet-up) {
+      margin: 120px 0 55px 0;
+    }
+  }
 
-*/
+  p {
+    width: 100%;
+    font-size: 20px;
+    line-height: 29px;
+    @include grid-media($grid--tablet-up) {
+      width: 80%;
+      margin: 20px auto;
+      text-align: center;
+    }
+  }
 
+  img {
+    margin: 40px 0;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+
+  h1 {
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  @include grid-media($grid--tablet-up) {
+    width: 935px;
+    margin: auto;
+  }
+}
