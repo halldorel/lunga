@@ -1,10 +1,10 @@
 ---
-title: Hafa samband
 layout: page
+title: Hafa samband
 permalink: /hafa-samband
-heading_color: '#DE7464'
 cover_photo: /assets/img/drasl.png
 tail_photo: /assets/img/drasl.png
+heading_color: '#E6A931'
 ---
 
 Árið 2000 leit listahátíð LungA dagsins ljós í fyrsta sinn. Um er að ræða listahátíð þar sem sköpun, listum og menningu er fagnað með námskeiðum, fyrirlestrum og öðrum viðburðum og lýkur með uppskeruhelgi: sýningum og tónleikum.
