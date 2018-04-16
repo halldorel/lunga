@@ -42,8 +42,12 @@ layout: default
   </div>
 </section>
 
-<section class="home__instagram">
+<section class="home__instagram image__widget">
   <h3 class="instagram__left"><a href="https://www.instagram.com/lunga.festival/">@LungA.Festival</a></h3>
-  <img src="" />
+        {% for image in page.instagram_images %}
+        <div class="photo__container">
+          <img src="{{ image }}" class="photo" alt="Instagram images" />
+        </div>
+      {% endfor %}
   <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga">#LUNGA</a></h3>
 </section>

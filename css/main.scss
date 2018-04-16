@@ -86,6 +86,7 @@ body {
   @include grid-media($grid--tablet-up) {
     overflow-x: visible;
   }
+  padding-top: 44px;
 }
 
 p {
@@ -94,8 +95,15 @@ p {
   font-size: 14px;
 }
 
+.header__wrap {
+  z-index: 10;
+  position: fixed; 
+  top: 0; left: 0; right: 0;
+}
+
 .header__logo {
-  background: url('/assets/img/logo.svg');
+  background-color: #fff;
+  background-image: url('/assets/img/logo.svg');
   background-position: center 10px; 
   background-repeat: no-repeat;
   height: 44px;
@@ -104,10 +112,11 @@ p {
     display: block;
     width: 100%; height: 100%;
   }
+
 }
 
 .header__hamburger {
-  position: absolute;
+  position: fixed;
   right: 13px; top: 13px;
   cursor: pointer;
   @include grid-media($grid--tablet-up) {
@@ -137,6 +146,7 @@ p {
   height: 100vh;
   @include cover-photo;
   user-select: none;
+
 }
 
 .home__logo {
@@ -161,7 +171,6 @@ p {
   bottom: 0; 
   left: 0; 
   right: 0; 
-
   height: 100vh;
 
   ul {
@@ -229,34 +238,105 @@ p {
   }
 }
 
+/** HOME INSTAGRAM **/
+
+.instagram__left, .instagram__right {
+  /* @LungA.Festival: */
+  @include rather-semi;
+
+  font-size: 30px;
+
+  @include grid-media($grid--tablet-up) {
+    font-size: 50px;
+  }
+
+  z-index: 100;
+
+  color: $red;
+  a {
+    color: inherit;
+  }
+  width: auto;
+  position: absolute;
+}
+
+.instagram__left {
+  //transform: rotate(-90deg);
+  top: 0; left: 0; right: 0;
+  bottom: 0;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.instagram__right {
+  bottom: 0;
+  right: 0; left: 0;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.home__instagram {
+  position: relative;
+  height: 600px;
+  .photo__container {
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    margin: auto;
+    width: 100%;
+    display: table;
+
+    .photo {
+      width: calc(100% - 40px);
+      padding: 20px;
+      margin: auto;
+      display: table-cell;
+      vertical-align: middle;
+    }
+
+    @include grid-media($grid--tablet-up) {
+      .photo {
+        width: auto;
+        height: 300px;
+      }
+      width: 80%;
+    }
+  }
+}
+
 /** CONCERT WIDGET **/
 .home__concert {
   position: relative;
-
-    height: 1320px;
-  @include grid-media($grid--tablet-up) {
   height: 660px;
+  @include grid-media($grid--tablet-up) {
+    height: 660px;
   }
 }
+
 .concert__widget {
   width: 100%;
   @include grid-media($grid--tablet-up) {
     position: absolute; right: 0; top: 0;
     display: inline-block;
     width: 50%;
+
+    height: 660px;
   }
-  height: 660px;
+  height: 330px;
   position: relative;
 }
 
 .concert__dates {
   display: block;
+
+  padding-top: 40px;
   @include grid-media($grid--tablet-up) {
     position: absolute; left: 0; top: 0;
     display: inline-block;
     width: 50%;
+    padding-top: 0;
   }
   width: 100%;
+
 }
 
 .concert__text {
@@ -268,10 +348,15 @@ p {
   text-transform: uppercase;
   color: $red;
   text-decoration: underline; 
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   margin: auto;
-  padding: 100px;
+  padding: 20px;
+  @include grid-media($grid--tablet-up) {
+    padding: 100px;
+    font-size: 30px;
+  }
+
 }
 
 a.concert__buy {
@@ -283,7 +368,11 @@ a.concert__buy {
   @include rather-semi;
   text-transform: uppercase;
   color: #000;
-  font-size: 50px;
+  font-size: 30px;
+  @include grid-media($grid--tablet-up) {
+    font-size: 50px;
+  }
+
   text-align: center;
 }
 
@@ -308,10 +397,6 @@ a.concert__buy {
 }
 
 .concert__images {
-
-}
-
-.images__container {
   margin: auto;
   width: 50%;
   height: 80%;

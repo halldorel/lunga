@@ -5,6 +5,8 @@
 title: "LungA 2018 | Listahátíð – Seyðisfjörður"
 layout: home
 cover_photo: '/assets/img/drasl.png'
-concert_images: ['/assets/img/drasl.png', '/assets/img/drasl2.png']
+concert_images: ['/assets/img/drasl.png', '/assets/img/drasl.png']
+instagram_images: ['/assets/img/drasl.png', '/assets/img/drasl.png']
+
 permalink: "/"
 ---
