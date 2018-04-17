@@ -8,14 +8,10 @@ heading_color: '#E6A931'
 ---
 **LungA Festival**
 
-Hafnargata 44
-
-710 Seyðisfjörður
-
-Kt. 600201-2120
-
-lunga(at)lunga.is
-
+Hafnargata 44\
+710 Seyðisfjörður\
+Kt. 600201-2120\
+lunga(at)lunga.is\
 8617789 & 8615859\
 \
 **LungA School**
@@ -72,3 +68,13 @@ Jonatan Spejlborg Jensen\
 
 Lasse Høgenhof\
 7758640
+
+**Grafísk hönnun**
+
+Studio Holt\
+www.studioholt.is
+
+**Forritun**
+
+Halldór Eldjárn \
+http://halldor.eldjarn.is/
