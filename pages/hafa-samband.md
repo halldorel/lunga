@@ -2,8 +2,8 @@
 layout: page
 title: Hafa samband
 permalink: /hafa-samband
-cover_photo: /assets/img/drasl.png
-tail_photo: /assets/img/drasl.png
+cover_photo: /img/uploads/000035.jpg
+tail_photo: /img/uploads/000034.jpg
 heading_color: '#E6A931'
 ---
 **LungA Festival**
