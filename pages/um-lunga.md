@@ -2,8 +2,8 @@
 layout: page
 title: Um LungA
 permalink: /um-lunga
-cover_photo: /assets/img/drasl.png
-tail_photo: /assets/img/drasl.png
+cover_photo: /img/uploads/tumblr_otlqer87jn1vaprzlo1_1280.jpg
+tail_photo: /img/uploads/5i7a6947-1-1.jpg
 heading_color: '#DE7464'
 ---
 Árið 2000 leit listahátíð LungA dagsins ljós í fyrsta sinn. Um er að ræða listahátíð þar sem sköpun, listum og menningu er fagnað með námskeiðum, fyrirlestrum og öðrum viðburðum og lýkur með uppskeruhelgi: sýningum og tónleikum.
@@ -20,6 +20,10 @@ Við byrjum hátíðina þetta árið á LungA Lab 13.júlí 2018.
 Þetta árið koma hópar frá Danmörk, England, Svíþjóð og Íslandi.
 Við ætlum að ræða um kyn, ekki út frá neinum fyrirfram ákveðnum skoðunum, heldur út frá öllum þeim mismunandi sjónarhornum sem upp koma þessa daga. Umræðan er byggð í kringum vinnu í minni hópum, pallborðsumræðum, mismunandi æfingum og allskonar skemmtilegum innslögum.
 
+# \
+Þema LungA 2018 er KYN
+
+\
 Við vonumst til þess að sjá ykkur sem flest á LungA í ár.
 
 Ást!
