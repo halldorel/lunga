@@ -23,7 +23,6 @@ Við ætlum að ræða um kyn, ekki út frá neinum fyrirfram ákveðnum skoðun
 # \
 Þema LungA 2018 er KYN
 
-\
 Við vonumst til þess að sjá ykkur sem flest á LungA í ár.
 
 Ást!
