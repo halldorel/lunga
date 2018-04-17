@@ -1,11 +1,9 @@
 ---
-layout: home
-instagram_images: ['/assets/img/drasl.png', '/assets/img/drasl.png']
-permalink: "/"
-title: LungA 2018 | Listahátíð – Seyðisfjörður
-permalink: /
-cover_photo: /img/uploads/screen-shot-2018-04-16-at-15.47.19.png
+title: Tónleikar
+cover_photo: /img/uploads/lunga_web_cover.jpg
+instagram_images: []
 concert_images:
-  - /assets/img/drasl.png
-  - /assets/img/drasl.png
+  - /img/uploads/pic.alviaxskrattar.jpg
+  - /img/uploads/credit-milah-libin-a3.jpg
 ---
+
