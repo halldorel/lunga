@@ -29,6 +29,8 @@ Krakkasmiðjan-TBA
 
 Skráning í smiðjur hefjast 1.maí. Nánar síðar.
 
+{% include workshops.html %}
+
 ![](/img/uploads/lunga-1-64.jpg)
 
 # LungA talks og aðrir viðburðir

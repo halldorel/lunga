@@ -1,0 +1,16 @@
+<section class="workshops_container">
+  {% assign workshops = site.pages | where: "type", "workshop" %}
+
+  {% for workshop in workshops %}
+    <div class="workshops__item">
+
+    <a href="{{ workshop.url }}">
+    <div class="workshop__image" style="background-image: url({{ workshop.cover_photo }})">
+    </div>
+
+    {{ workshop.title }}
+
+    </a>
+    </div>
+  {% endfor %}
+</section>

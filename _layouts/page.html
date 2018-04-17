@@ -6,9 +6,15 @@ layout: default
 
 <section class="page__container">
   <style type="text/css">
+    {% if page.heading_color %}
     h1, h2, h3, h4, h5, h6 {
       color: {{ page.heading_color }};
     }
+
+    .workshops__item a {
+      color: {{ page.heading_color }} !important;
+    }
+    {% endif %}
   </style>
   <h1>{{ page.title }}</h1>
 

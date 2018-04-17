@@ -49,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "workshops"
     create: true
     fields: 
-      - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}

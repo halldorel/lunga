@@ -417,6 +417,39 @@ a.concert__buy {
   opacity: 1 !important;
 }
 
+/** WORKSHOPS **/
+.workshops_container {
+  @include grid-container;
+  max-width: 935px;
+  margin: auto;
+  padding: 20px;
+  
+  @include rather-semi;
+
+  h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: $red;
+  }
+}
+
+.workshops__item {
+  @include grid-column(3, $grid--tablet-up);
+  a {
+    text-decoration: none;
+    color: $red;
+  }
+}
+
+.workshop__image {
+  display: block;
+  padding-top: 66%;
+  margin: 30px 0 10px 0;
+  background-size: cover;
+  background-position: center;
+}
+
 /** TEXT FRAME **/
 
 .frame__text {

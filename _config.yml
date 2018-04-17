@@ -17,8 +17,8 @@ title: LungA 2018 | Listahátíð – Seyðisfjörður
 email: lunga@lunga.is
 description: >- # this means to ignore newlines until "baseurl:"
   LungA 2018
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lunga.is" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://lunga.is" # the subpath of your site, e.g. /blog
+url: "https://lunga.is" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

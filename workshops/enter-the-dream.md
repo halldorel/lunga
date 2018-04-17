@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 title: Enter the Dream
-permalink: soleyogdominique
 cover_photo: /img/uploads/soleyogdominique.jpeg
+type: workshop
 images:
   - /img/uploads/lunga_workshop_fb_share3.jpg
 ---
