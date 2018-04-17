@@ -10,10 +10,10 @@ heading_color: '#2A6F55'
 
 Tónleikarnir verða veglegir í ár og spanna allt frá hágæða poppi, alþjóðlegu hip hoppi og artí elektroniku. Headlænerinn í ár kemur frá Bandaríkjunum og er engin önnur en hin valinkunna Princess Nokia, sem er þekkt fyrir líflega framkomu, framsækna og feminiska teksta.
 
-Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár. \
+Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár dagana 20. & 21. júlí. \
 [Kaupa miða. ](https://tix.is/is/event/5706/lunga-2018/)
 
-![](/img/uploads/lunga_fb_lineup_1.jpg)
+![null](/img/uploads/lunga_fb_lineup_1.jpg)
 
 # Listasmiðjur
 
@@ -29,12 +29,12 @@ Krakkasmiðjan-TBA
 
 Skráning í smiðjur hefjast 1.maí. Nánar síðar.
 
+![](/img/uploads/lunga-1-64.jpg)
+
 # LungA talks og aðrir viðburðir
 
 LungA býður upp á háklassa alþjóðlega viðburði yfir alla vikuna og að tónlistarveislu LungA undanskylinni þá er öll dagskráin frí.
 
 Við erum um þessar mundir að setja saman dagskránna fyrir 2018 en nánari upplýsingar koma með nýrri heimasíðu.
-
-
 
 Fylgist vel með!
