@@ -52,6 +52,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Images", name: "images", widget: "list", field: {label: Image, name: image, widget: image}}
