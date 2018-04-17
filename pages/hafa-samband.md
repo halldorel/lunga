@@ -8,10 +8,14 @@ heading_color: '#E6A931'
 ---
 **LungA Festival**
 
-Hafnargata 44\
-710 Seyðisfjörður\
-Kt. 600201-2120\
-lunga(at)lunga.is\
+Hafnargata 44
+
+710 Seyðisfjörður
+
+Kt. 600201-2120
+
+lunga(at)lunga.is
+
 8617789 & 8615859\
 \
 **LungA School**
