@@ -45,8 +45,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Concert Images", name: "concert_images", widget: "list", field: {label: Image, name: concert_images, widget: image}}
 
   - name: "workshops"
-    label: "workshops"
+    label: "Workshops"
     folder: "workshops"
+    create: true
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
