@@ -2,26 +2,39 @@
 layout: page
 title: Dagskrá
 permalink: /dagskra
-cover_photo: /assets/img/drasl.png
-tail_photo: /assets/img/drasl.png
+cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
+tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
 ---
+# Tónleikar
 
-Árið 2000 leit listahátíð LungA dagsins ljós í fyrsta sinn. Um er að ræða listahátíð þar sem sköpun, listum og menningu er fagnað með námskeiðum, fyrirlestrum og öðrum viðburðum og lýkur með uppskeruhelgi: sýningum og tónleikum.
+Tónleikarnir verða veglegir í ár og spanna allt frá hágæða poppi, alþjóðlegu hip hoppi og artí elektroniku. Headlænerinn í ár kemur frá Bandaríkjunum og er engin önnur en hin valinkunna Princess Nokia, sem er þekkt fyrir líflega framkomu, framsækna og feminiska teksta.
 
-Hátíðin er frábær blanda af listum, sköpun, tjáningu og stórbrotinni náttúru. Hún hefur getið sér gott orðspor, bæði á Ísland og út fyrir landsteinana fyrir frábært andrúmsloft, námskeið af miklum gæðum og með mikilli virkni þátttakenda. Ennfremur færir hátíðin gleði, sjálfsþekkingu, elskendur, nýja vini og góðar minningar fyrir þá sem sækja hátíðina heim.
+Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár. \
+[Kaupa miða. ](https://tix.is/is/event/5706/lunga-2018/)
 
-LungA „fjölskyldan“ samanstendur nú bæði af árlegri listahátíð og skóla. Dagsdaglega er þetta tvennt rekið sitt í hvoru lagi, en heitið, gildin og hugmyndafræðin eru af sama meiði.
+![](/img/uploads/lunga_fb_lineup_1.jpg)
 
-UNGMENNASKIPTI – ERASMUS+
----
-Við byrjum hátíðina þetta árið á LungA Lab 13.júlí 2018.
-Þetta er annað árið þar sem þessi nýji angi hátíðarinnar í bland við ungmennaskiptiverkefnið á sér stað undir nafninu LungA Lab og langar okkur að bjóða almenningi að taka þátt í samtalinu. Við bjóðum uppá fjölda stórkostlega fyrirlestra og á þann hátt náum við vonandi að opna umræðuna um “kyn” enn frekar.
+# Listasmiðjur
 
-Þetta árið koma hópar frá Danmörk, England, Svíþjóð og Íslandi.
-Við ætlum að ræða um kyn, ekki út frá neinum fyrirfram ákveðnum skoðunum, heldur út frá öllum þeim mismunandi sjónarhornum sem upp koma þessa daga. Umræðan er byggð í kringum vinnu í minni hópum, pallborðsumræðum, mismunandi æfingum og allskonar skemmtilegum innslögum.
+Listasmiðjur LungA 2018 verða 9 talsins.
 
-Við vonumst til þess að sjá ykkur sem flest á LungA í ár.
+7 vikulangar smiðjur, 1 föstudagsmiðja og 1 krakkasmiðja.
 
-Ást!
-LungA
+Gjald fyrir viku námskeið er 45.000kr og innifalið í því verði er þátttaka í listasmiðju, gisting í svefnpoka plássi, fullt fæði og aðgangur að öllum viðburðum hátíðarinnar.
+
+Gjald fyrir Föstudagsnámskeið er 15.000kr og innifalið í því verði er þátttaka í listasmiðjuna, gisting, fæði á meðan námskeiðinu stendur og aðgangur að öllum viðburðum hátíðarinnar.
+
+Krakkasmiðjan-TBA
+
+Skráning í smiðjur hefjast 1.maí. Nánar síðar.
+
+# LungA talks og aðrir viðburðir
+
+LungA býður upp á háklassa alþjóðlega viðburði yfir alla vikuna og að tónlistarveislu LungA undanskylinni þá er öll dagskráin frí.
+
+Við erum um þessar mundir að setja saman dagskránna fyrir 2018 en nánari upplýsingar koma með nýrri heimasíðu.
+
+
+
+Fylgist vel með!
