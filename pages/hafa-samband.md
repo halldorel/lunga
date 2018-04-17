@@ -77,4 +77,4 @@ www.studioholt.is
 **Forritun**
 
 Halldór Eldjárn \
-http://halldor.eldjarn.is/
+http://hdor.is/
