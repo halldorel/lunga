@@ -6,8 +6,6 @@ cover_photo: /img/uploads/tumblr_otlqer87jn1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/5i7a6947-1-1.jpg
 heading_color: '#DE7464'
 ---
-# ABOUT LUNGA
-
 In the year 2000 LungA Art festival was held for the first time. It’s an intimate art festival where creativity, arts and culture are celebrated with workshops, lectures and events. The festival goes off with a bang in a culmination of exhibitions and concerts that take place over the final weekend. 
 
 LungA has earned quite the reputation, both locally and internationally, for its great ambiance, good-quality workshops and the fantastic enthusiasm of the participants year on year.   Furthermore, the festival has fostered joy, self-knowledge, new lovers, new friends and warm memories to those who come to participate in it. 
