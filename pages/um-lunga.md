@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About LungA
-permalink: /about
+permalink: /um-lunga
 cover_photo: /img/uploads/tumblr_otlqer87jn1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/5i7a6947-1-1.jpg
 heading_color: '#DE7464'
