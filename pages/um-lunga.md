@@ -16,7 +16,7 @@ The LungA “family” now consists of both the yearly art festival and the Lung
 
 Over the last decade we have offered a youth exchange program in collaboration with ERASMUS+. The Youth Exchange project is built around a three day workshop where youth from 3-4 European countries meet and dive into the yearly theme of the festival.  From the theme and collaboration stems an array of interesting lectures which aims to activate a dialogue about social and individual responsibility.
 
-# The Theme of LungA 2018
+# The Theme 
 
 This year’s theme is GENDER. The Youth Exchange groups will participate from the Kaospilot school in Denmark, University of Brighton in England, Hyper Island in Sweden and the Reykjavik School of Visual Arts in Iceland. We’re going to attempt to discuss gender away from any pre-conditioned beliefs. Rather we’re going to take a deep look into gender from all of the contemporary vantage points that have come to the surface recently. The discourse is based upon the collaboration of smaller groups, which includes panel discussions, exercises and a variety of lively inputs. 
 
