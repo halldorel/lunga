@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact
 cover_photo: /img/uploads/tumblr_oaf8he6lug1vzefu3o1_1280.jpg
 tail_photo: /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
