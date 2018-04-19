@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Umsóknir
+title: Applications
 permalink: /umsoknir
 cover_photo: /img/uploads/tumblr_otcin0mhju1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_otasw2uald1vaprzlo1_1280.jpg
