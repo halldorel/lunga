@@ -435,7 +435,11 @@ a.concert__buy {
 }
 
 .workshops__item {
-  @include grid-column(3, $grid--tablet-up);
+  @include grid-column(12);
+  @include grid-media($grid--tablet-up) {
+    @include grid-column(3, $grid--tablet-up);
+  }
+
   a {
     text-decoration: none;
     color: $red;
@@ -504,6 +508,14 @@ a.concert__buy {
   background: red;
   transform: rotate(-90deg);
   text-align: right;
+}
+
+h3 {
+  @include rather-semi;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: $red;
 }
 
 /** SUBPAGE LAYOUT **/
