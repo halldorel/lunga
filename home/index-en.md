@@ -1,7 +1,7 @@
 ---
-title: LungA 2018
-permalink: "/"
-layout: home
+title: Concert
+permalink: "/en"
+layout: home-en
 cover_photo: /img/uploads/lunga_web_cover.jpg
 instagram_images:
   - /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg

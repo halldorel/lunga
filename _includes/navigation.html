@@ -21,19 +21,19 @@
 
   <ul>
     <li>
-      <a href="/um-lunga" class="nav__item">Um LungA</a>
+      <a href="/um-lunga" class="nav__item">{%if page.layout == "home-en"%}About LungA{%else%}Um LungA{%endif%}</a>
     </li>
     <li>
-      <a href="/dagskra" class="nav__item">Dagskrá</a>
+      <a href="/dagskra" class="nav__item">{%if page.layout == "home-en"%}Program LungA{%else%}Dagskrá{%endif%}</a>
     </li>
     <li>
-      <a href="https://www.tix.is/is/event/5706/lunga-2018/" class="nav__item nav__item--boxed">Kaupa miða</a>
+      <a href="https://www.tix.is/is/event/5706/lunga-2018/" class="nav__item nav__item--boxed">{%if page.layout == "home-en"%}Buy tickets{%else%}Kaupa miða{%endif%}</a>
     </li>
     <li>
-      <a href="/hafa-samband" class="nav__item">Hafa samband</a>
+      <a href="/hafa-samband" class="nav__item">{%if page.layout == "home-en"%}Contact{%else%}Hafa samband{%endif%}</a>
     </li>
     <li>
-      <a href="/umsoknir" class="nav__item">Umsóknir</a>
+      <a href="/umsoknir" class="nav__item">{%if page.layout == "home-en"%}Applications{%else%}Umsóknir{%endif%}</a>
     </li>
   </ul>
 </nav>

@@ -5,22 +5,22 @@ layout: default
 <div class="home__cover" style="background-image: url('{{ page.cover_photo }}')">
   <div class="home__logo">
     <img src="/assets/img/logo-white.svg" alt="LungA 2018 logo" />
-    <p class="logo__tagline">LISTAHÁTÍÐ — SEYÐISFJÖRÐUR — 15.&nbsp;–&nbsp;22.&nbsp;JÚLÍ&nbsp;2018</p>
+    <p class="logo__tagline">ART FESTIVAL — SEYÐISFJÖRÐUR — 15&nbsp;–&nbsp;22&nbsp;JULY&nbsp;2018</p>
   </div>
 </div>
 
 {% include navigation.html %}
 
 <section class="home__concert">
-  <div class="frame__text" data-content="Tónleikar">
+  <div class="frame__text" data-content="Tónlistarhátíð">
     
     <div class="frame__text--bottom text"></div>
     <div class="frame__text--top text"></div>
   </div>
   <div class="concert__dates">
-    <h3 class="concert__title">Tónleikar</h3>
-    <h3 class="concert__date">20. - 21. júlí</h3>
-    <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/">Kaupa miða</a>
+    <h3 class="concert__title">CONCERT</h3>
+    <h3 class="concert__date">20 - 21 july</h3>
+    <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/">Buy tickets</a>
   </div>
   <div class="concert__widget image__widget">
     <div class="arrow--left">
@@ -43,14 +43,14 @@ layout: default
 </section>
 
 <section class="home__instagram image__widget">
-  <h3 class="instagram__left"><a href="https://www.instagram.com/lunga.festival/" target="_blank">@LungA.Festival</a></h3>
+  <h3 class="instagram__left"><a href="https://www.instagram.com/lunga.festival/">@LungA.Festival</a></h3>
         {% for image in page.instagram_images %}
         <div class="photo__container">
           <img src="{{ image }}" class="photo" alt="Instagram images" />
         </div>
       {% endfor %}
-  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga" target="_blank">#LUNGA</a></h3>
+  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga">#LUNGA</a></h3>
 </section>
 
-<h3 style="padding-top: 40px;">VINNUSTOFUR</h3>
+<h3>WORKSHOPS</h3>
 {% include workshops.html %}
