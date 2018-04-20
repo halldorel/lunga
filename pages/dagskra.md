@@ -1,42 +1,43 @@
 ---
 layout: page
-title: Dagskrá
+title: Program
 permalink: /dagskra
 cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
 ---
-# Tónleikar
+# Concert
 
-Tónleikarnir verða veglegir í ár og spanna allt frá hágæða poppi, alþjóðlegu hip hoppi og artí elektroniku. Headlænerinn í ár kemur frá Bandaríkjunum og er engin önnur en hin valinkunna Princess Nokia, sem er þekkt fyrir líflega framkomu, framsækna og feminiska teksta.
+This year’s concert is going to be exquisite, having a versatile line up that contains everything from high-quality pop, international hip hop to artistic electronica. The headliner this year comes from the United States and is no other than the honorable Princess Nokia, who is known for her lively performances as well as her dynamic and feminist lyrics.  
 
-Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár dagana 20. & 21. júlí. \
-[Kaupa miða. ](https://tix.is/is/event/5706/lunga-2018/)
+Here you can see which artists will be performing at this year’s LungA concert on the 20th and 21st of July  \  Buy tickets!
 
 ![null](/img/uploads/lunga_fb_lineup_1.jpg)
 
-# Listasmiðjur
+# Workshops
 
-Listasmiðjur LungA 2018 verða 9 talsins.
+There will be 9 workshops at LungA festival 2018.
 
-7 vikulangar smiðjur, 1 föstudagsmiðja og 1 krakkasmiðja.
+7 x Week-long Workshops, 1x Friday Workshop and 1 x Youth Workshop.
 
-Gjald fyrir viku námskeið er 45.000kr og innifalið í því verði er þátttaka í listasmiðju, gisting í svefnpoka plássi, fullt fæði og aðgangur að öllum viðburðum hátíðarinnar.
+The price for the week-long workshop is 45.000 ISK. That includes participation in a workshop, dormitory-style accommodation, three meals a day and access to all of the festival’s events. 
 
-Gjald fyrir Föstudagsnámskeið er 15.000kr og innifalið í því verði er þátttaka í listasmiðjuna, gisting, fæði á meðan námskeiðinu stendur og aðgangur að öllum viðburðum hátíðarinnar.
+The price for the Friday workshop is 15.000 ISK and it includes participation in the Friday workshop, dormitory-style accommodation from thursday - sunday, three meals a day while participating in the workshop and access to all of the festival’s events.  
 
-Krakkasmiðjan-TBA
+Kids workshop-TBA
 
-Skráning í smiðjur hefjast 1.maí. Nánar síðar.
+Workshop Applications open on the 1st of May 2018. 
+
+
 
 {% include workshops.html %}
 
-![](/img/uploads/lunga-1-64.jpg)
+![null](/img/uploads/lunga-1-64.jpg)
 
-# LungA talks og aðrir viðburðir
+# LungA talks and other events
 
-LungA býður upp á háklassa alþjóðlega viðburði yfir alla vikuna og að tónlistarveislu LungA undanskylinni þá er öll dagskráin frí.
+LungA offers you a range of high-end international events across the week and it’s all free of charge, apart from the ticketed LungA concert during the weekend. 
 
-Við erum um þessar mundir að setja saman dagskránna fyrir 2018 en nánari upplýsingar koma með nýrri heimasíðu.
+As we speak, we at LungA are putting together the full program of lectures, exhibitions, movie screenings, performances etc...
 
-Fylgist vel með!
+Keep a close eye on the website and social media as further information is on its way!

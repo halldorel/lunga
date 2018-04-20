@@ -1,17 +1,35 @@
 ---
 layout: page
-title: Umsóknir
+title: Applications
 permalink: /umsoknir
 cover_photo: /img/uploads/tumblr_otcin0mhju1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_otasw2uald1vaprzlo1_1280.jpg
 heading_color: '#151A41'
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Apply to participate in a [workshop at LungA festival](http://lunga.netlify.com/dagskra)
 
-Umsóknarform fyrir tónlistarfólk.
+**Become a volunteer at LungA festival**
 
-Umsóknarform fyrir listasýningar og aðra viðburði.
+Submission deadline June 30th, 2018. 
 
-Umsóknaform fyrir listasmiðjukennara.
+Applications sent after the deadline will be moved to the 2019 submissions. Apply [here](https://podio.com/webforms/20703886/1425536). 
 
-Umsóknaform fyrir fyrirlesara.
+**Apply to play at the LungA festival concert **
+
+Submission deadline March 15th, 2018.
+
+Applications sent after the deadline will be moved to the 2019 submissions. Apply [here](https://podio.com/webforms/20769252/1427418). 
+
+**Apply to perform, exhibit your art or pitch your artistic project to LungA festival. **
+
+Submission deadline April 15th, 2018.
+
+Applications sent after the deadline will be moved to the 2019 submissions. Apply [here](https://podio.com/webforms/20769251/1427416). 
+
+**Apply to facilitate a workshop at LungA festival**
+
+Submission deadline March 15th, 2018. Applications sent after the deadline will be moved to the 2019 submissions. Apply [here.](https://podio.com/webforms/20769289/1427422) 
+
+Apply to hold a talk / lecture at LungA festival
+
+Submission deadline May 15th, 2018. Applications sent after the deadline will be moved to the 2019 submissions. Apply [here](https://podio.com/webforms/20769301/1427427).

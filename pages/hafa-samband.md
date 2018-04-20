@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hafa samband
+title: Contact
 permalink: /hafa-samband
 cover_photo: /img/uploads/tumblr_oaf8he6lug1vzefu3o1_1280.jpg
 tail_photo: /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
@@ -8,73 +8,116 @@ heading_color: '#E6A931'
 ---
 **LungA Festival**
 
-Hafnargata 44\
-710 Seyðisfjörður\
-Kt. 600201-2120\
-lunga(at)lunga.is\
-8617789 & 8615859\
-\
-**LungA School**
+Hafnargata 44
 
-Hafnargata 28\
-710 Seyðisfjörður\
-Kt. 660213-1200\
-school(at)lunga.is\
-+3547863402\
-\
-**Framkvæmdastjóri**\
-\
-Björt Sigfinnsdóttir\
-(+45)28993633 &  8663046
+710 Seyðisfjörður
 
-**Fjármálastjóri**\
-\
-Aðalheiður Lóa Borgþórsdóttir\
+Kt. 600201-2120
+
+lunga(at)lunga.is
+
+8617789 & 8615859
+
+<br>
+
+**Director**
+
+Björt Sigfinnsdóttir
+
+(+45)28993633 & 8663046
+
+<br>
+
+**Financial director**
+
+Aðalheiður Lóa Borgþórsdóttir
+
 8617789
 
-**Námskeið**\
-\
-Sesselja Hlín Jónasardóttir\
+<br>
+
+**Workshops**
+
+Sesselja Hlín Jónasardóttir
+
 7702444
 
-**Tónlist**\
-\
-Rögnvaldur Skúli Árnason\
+<br>
+
+**Concerts**
+
+Rögnvaldur Skúli Árnason
+
 8955888
 
-**Sýningar og aðrir viðburðir**\
-\
-Hilmar Guðjónsson\
+<br>
+
+**Exhibitions, talks and other events**
+
+Hilmar Guðjónsson
+
 8453527
 
-**Sjálfboðaliðar**\
-\
-Ólafur Daði Eggertsson\
-6592191\
-Celia Harris
+<br>
 
-**Ungmenna skipti**\
-\
-Björt Sigfinnsdóttir\
-(+45)28993633 &  8663046
+**Volunteers**
 
-Ólafur Daði Eggertsson\
+Ólafur Daði Eggertsson
+
 6592191
 
-**Forsvarsmenn skólans**
+Celia Harris
 
-Jonatan Spejlborg Jensen\
+<br>
+
+**Youth exchange program**
+
+Björt Sigfinnsdóttir
+
+(+45)28993633 & 8663046
+
+Ólafur Daði Eggertsson\
+
+6592191
+
+<br>
+
+**LungA School**
+
+Hafnargata 28
+
+710 Seyðisfjörður
+
+Kt. 660213-1200
+
+school(at)lunga.is
+
++3547863402
+
+<br> 
+
+**Schools administrators**
+
+Jonatan Spejlborg Jensen
+
 7863402
 
-Lasse Høgenhof\
+Lasse Høgenhof
+
 7758640
 
-**Grafísk hönnun**
+<br>
 
-Studio Holt\
+**Graphic design**
+
+Studio Holt
+
 www.studioholt.is
 
-**Forritun**
+<br>
 
-Halldór Eldjárn \
-http://hdor.is/
+**Homepage programming**
+
+Halldór Eldjárn
+
+http://hdor.is
