@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Applications
-permalink: /en/applications
+title: Umsóknir
+permalink: /umsoknir
 cover_photo: /img/uploads/tumblr_otcin0mhju1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_otasw2uald1vaprzlo1_1280.jpg
 heading_color: '#151A41'
