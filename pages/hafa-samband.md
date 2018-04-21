@@ -1,70 +1,68 @@
 ---
 layout: page
-title: Hafa samaband
+title: Hafa samband
 permalink: /hafa-samband
 cover_photo: /img/uploads/tumblr_oaf8he6lug1vzefu3o1_1280.jpg
 tail_photo: /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
 heading_color: '#E6A931'
 ---
+## LungA hátíð
 
-LungA Festival
---
 Hafnargata 44<br>
 710 Seyðisfjörður<br>
 Kt. 600201-2120<br>
 lunga(at)lunga.is<br>
 8617789 & 8615859
 
-Director
---
+## Framkvæmdastjóri
+
 Björt Sigfinnsdóttir<br>
 (+45)28993633 & 8663046
 
-Financial director
---
+## Fjármálastjóri
+
 Aðalheiður Lóa Borgþórsdóttir<br>
 8617789
 
-Workshops
---
+## Listasmiðjur
+
 Sesselja Hlín Jónasardóttir<br>
 7702444
 
-Concerts
---
+## Tónlist
+
 Rögnvaldur Skúli Árnason<br>
 8955888
 
-Exhibitions, talks and other events
---
+## Sýningar, fyrirlestrar og aðrir viðburðir
+
 Hilmar Guðjónsson<br>
 8453527
 
-Volunteers
---
+## Sjálfboðaliðar
+
 Ólafur Daði Eggertsson<br>
 6592191
 
 Celia Harris
 
-Youth exchange program
---
+## Ungmenna skipti
+
 Björt Sigfinnsdóttir<br>
 (+45)28993633 & 8663046
 
 Ólafur Daði Eggertsson<br>
 6592191
 
-LungA School
---
+## LungA Skólinn
+
 Hafnargata 28<br>
 710 Seyðisfjörður<br>
 Kt. 660213-1200<br>
 school(at)lunga.is<br>
 +3547863402
 
-Schools administrators
---
+## Forsvarsmenn skólans
 
 Jonatan Spejlborg Jensen<br>
 7863402
@@ -72,12 +70,12 @@ Jonatan Spejlborg Jensen<br>
 Lasse Høgenhof<br>
 7758640
 
-Graphic design
---
+## Grafísk hönnun
+
 Studio Holt<br>
 [www.studioholt.is](http://www.studioholt.is)
 
-Homepage programming
---
+## Forritun
+
 Halldór Eldjárn<br>
 [www.hdor.is](http://hdor.is)
