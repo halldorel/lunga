@@ -24,7 +24,7 @@
       <a href="/um-lunga" class="nav__item">{%if page.layout == "home-en"%}About LungA{%else%}Um LungA{%endif%}</a>
     </li>
     <li>
-      <a href="/dagskra" class="nav__item">{%if page.layout == "home-en"%}Program LungA{%else%}Dagskrá{%endif%}</a>
+      <a href="/dagskra" class="nav__item">{%if page.layout == "home-en"%}Program{%else%}Dagskrá{%endif%}</a>
     </li>
     <li>
       <a href="https://www.tix.is/is/event/5706/lunga-2018/" class="nav__item nav__item--boxed">{%if page.layout == "home-en"%}Buy tickets{%else%}Kaupa miða{%endif%}</a>
@@ -35,5 +35,17 @@
     <li>
       <a href="/umsoknir" class="nav__item">{%if page.layout == "home-en"%}Applications{%else%}Umsóknir{%endif%}</a>
     </li>
+    <li class="mobile-only">
+      <a href="https://2017.lunga.is/school" class="nav__item">LungA School</a>
+    </li>
+    {%if page.layout == "home-en"%}
+    <li class="mobile-only">
+      <a href="/" class="nav__item">Íslenska</a>
+    </li>
+    {%else%}
+    <li class="mobile-only">
+      <a href="/en" class="nav__item">English</a>
+    </li>
+    {%endif%}
   </ul>
 </nav>
