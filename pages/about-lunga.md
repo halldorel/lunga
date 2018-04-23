@@ -5,6 +5,7 @@ permalink: /en/about-lunga
 cover_photo: /img/uploads/tumblr_otlqer87jn1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/5i7a6947-1-1.jpg
 heading_color: '#DE7464'
+lang: en
 ---
 In the year 2000 LungA Art festival was held for the first time. It’s an intimate art festival where creativity, arts and culture are celebrated with workshops, lectures and events. The festival goes off with a bang in a culmination of exhibitions and concerts that take place over the final weekend. 
 

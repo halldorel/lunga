@@ -18,34 +18,56 @@
       </svg>
     </div>
   </header>
+  {% if page.lang == "en" %}
 
   <ul>
     <li>
-      <a href="/um-lunga" class="nav__item">{%if page.layout == "home-en"%}About LungA{%else%}Um LungA{%endif%}</a>
+      <a href="/en/about-lunga" class="nav__item">About LungA</a>
     </li>
     <li>
-      <a href="/dagskra" class="nav__item">{%if page.layout == "home-en"%}Program{%else%}Dagskrá{%endif%}</a>
+      <a href="/en/program" class="nav__item">Program</a>
     </li>
     <li>
-      <a href="https://www.tix.is/is/event/5706/lunga-2018/" class="nav__item nav__item--boxed">{%if page.layout == "home-en"%}Buy tickets{%else%}Kaupa miða{%endif%}</a>
+      <a href="https://www.tix.is/is/event/5706/lunga-2018/" class="nav__item nav__item--boxed">Buy tickets</a>
     </li>
     <li>
-      <a href="/hafa-samband" class="nav__item">{%if page.layout == "home-en"%}Contact{%else%}Hafa samband{%endif%}</a>
+      <a href="/en/contact" class="nav__item">Contact</a>
     </li>
     <li>
-      <a href="/umsoknir" class="nav__item">{%if page.layout == "home-en"%}Applications{%else%}Umsóknir{%endif%}</a>
+      <a href="/en/applications" class="nav__item">Applications</a>
     </li>
     <li class="mobile-only">
       <a href="https://2017.lunga.is/school" class="nav__item">LungA School</a>
     </li>
-    {%if page.layout == "home-en"%}
     <li class="mobile-only">
       <a href="/" class="nav__item">Íslenska</a>
     </li>
-    {%else%}
+  </ul>
+
+  {% else %}
+
+  <ul>
+    <li>
+      <a href="/um-lunga" class="nav__item">Um LungA</a>
+    </li>
+    <li>
+      <a href="/dagskra" class="nav__item">Dagskrá</a>
+    </li>
+    <li>
+      <a href="https://www.tix.is/is/event/5706/lunga-2018/" class="nav__item nav__item--boxed">Kaupa miða</a>
+    </li>
+    <li>
+      <a href="/hafa-samband" class="nav__item">Hafa samband</a>
+    </li>
+    <li>
+      <a href="/umsoknir" class="nav__item">Umsóknir</a>
+    </li>
+    <li class="mobile-only">
+      <a href="https://2017.lunga.is/school" class="nav__item">LungA Skólinn</a>
+    </li>
     <li class="mobile-only">
       <a href="/en" class="nav__item">English</a>
     </li>
-    {%endif%}
   </ul>
+  {% endif %}
 </nav>

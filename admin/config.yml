@@ -28,6 +28,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Language", name: "lang", widget: "string", default: "is"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Tail photo", name: "tail_photo", widget: "image"}
@@ -39,6 +40,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Language", name: "lang", widget: "string", default: "is"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Instagram Images", name: "instagram_images", widget: "list", field: {label: Image, name: instagram_images, widget: image}}
