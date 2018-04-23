@@ -483,13 +483,18 @@ a.concert__buy {
 .workshops__item {
   @include grid-column(12, $no-gutter--tablet-up);
   @include grid-media($grid--tablet-up) {
-    @include grid-column(3, $grid--tablet-up);
+    @include grid-column(4, $grid--tablet-up);
   }
 
   a {
     text-decoration: none;
     color: $red;
   }
+}
+
+.workshop__title {
+  height: 2em;
+  display: block;
 }
 
 .workshop__image {
