@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Not a Horror House
+type: workshop
 cover_photo: /img/uploads/lungaworkshop.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share5.jpg

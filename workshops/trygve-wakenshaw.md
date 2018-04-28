@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Characters
+type: workshop
 cover_photo: /img/uploads/_t3a9805.jpg
 images: []
 ---

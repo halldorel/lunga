@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Comfort zone
+type: workshop
 cover_photo: /img/uploads/nnsiggasoffia-.jpg
 images:
   - /img/uploads/nnsiggasoffia-.jpg
+
 ---
 We will find the comfort zone and enjoy the stay there for a couple of days. Then we will take a look at what is outside of the comfort zone and find out what we would like to try.
 

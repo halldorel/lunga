@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Enter the Dream
+type: workshop
 cover_photo: /img/uploads/enter-the-dream.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share3.jpg

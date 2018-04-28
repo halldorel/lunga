@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mapping the Invisible
+type: workshop
 cover_photo: /img/uploads/samanatha-1.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share4.jpg

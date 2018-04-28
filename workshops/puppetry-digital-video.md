@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Puppetry & Digital Video
+type: workshop
 cover_photo: /img/uploads/solipsist_still_11a_s.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share.jpg
