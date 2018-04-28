@@ -1,0 +1,9 @@
+<section class="home__instagram image__widget">
+  <h3 class="instagram__left"><a href="https://www.instagram.com/lunga.festival/" target="_blank">@LungA.Festival</a></h3>
+        {% for image in page.instagram_images %}
+        <div class="photo__container">
+          <img src="{{ image }}" class="photo" alt="Instagram images" />
+        </div>
+      {% endfor %}
+  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga" target="_blank">#LungaFestival</a></h3>
+</section>

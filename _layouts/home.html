@@ -11,46 +11,16 @@ layout: default
 
 {% include navigation.html %}
 
-<section class="home__concert">
-  <div class="frame__text" data-content="Tónleikar">
-    
-    <div class="frame__text--bottom text"></div>
-    <div class="frame__text--top text"></div>
-  </div>
-  <div class="concert__dates">
-    <h3 class="concert__title">Tónleikar</h3>
-    <h3 class="concert__date">20. - 21. júlí</h3>
-    <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/">Kaupa miða</a>
-  </div>
-  <div class="concert__widget image__widget">
-    <div class="arrow--left">
-      <a href="#">
-        <img src="/assets/img/arrow.svg" alt="arrow left" />
-      </a>
-    </div>
-    <div class="arrow--right">
-      <a href="#">
-        <img src="/assets/img/arrow.svg" alt="arrow right" />
-      </a>
-    </div>
+{% for section in page.sections %}
 
-    <div class="images__container">
-      {% for image in page.concert_images %}
-        <img src="{{ image }}" class="photo" alt="Concert image" />
-      {% endfor %}
-    </div>
-  </div>
-</section>
+  {% if section == "concert" %}
+    {% include concert.html %}
+  {% elsif section == "instagram" %}
+    {% include instagram.html %}
+  {% elsif section == "workshops" %}
+    {% include workshops_title.html %}
+  {% else %}
+  
+  {% endif %}
 
-<section class="home__instagram image__widget">
-  <h3 class="instagram__left"><a href="https://www.instagram.com/lunga.festival/" target="_blank">@LungA.Festival</a></h3>
-        {% for image in page.instagram_images %}
-        <div class="photo__container">
-          <img src="{{ image }}" class="photo" alt="Instagram images" />
-        </div>
-      {% endfor %}
-  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga" target="_blank">#LungaFestival</a></h3>
-</section>
-
-<h3 style="padding-top: 40px;">VINNUSTOFUR</h3>
-{% include workshops.html %}
+{% endfor %}
