@@ -23,8 +23,6 @@ Everyone involved will receive more information one week before the performance 
 
 We declare ourselves prepared to consider the potentially disruptive effect on our own practice and perception that might occur.
 
-
-
 Lasse Høgenhof (DK) and Jonatan Spejlborg (DK) are both living and working in Iceland currently through the experimental art school LungA School and the Heima Art residency, both located in Seydisfjordur, East Iceland.
 
 Their collaboration is centered around creating and exposing the most interesting situations possible through more or less civilised structures, actions and complete engagement.
@@ -32,3 +30,7 @@ Their collaboration is centered around creating and exposing the most interestin
 The LungA School is an independent, artist-led institution and situation experimenting with artistic practice as a way of doing, thinking and being in order to cultivate, disturb, distort and transform our notions of aesthetics, learning and perception.
 
 The HEIMA Art residency is an artist-led structure that holds temporary curated collectives of international artists in a house and studio in Seydisfjordur.
+
+<http://www.projectanywhere.net/84-by-lunga-school/>
+
+<http://h-e-i-m-a.com/>
