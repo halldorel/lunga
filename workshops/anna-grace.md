@@ -2,6 +2,7 @@
 layout: page
 title: Copy & Paste Waves
 cover_photo: /img/uploads/62d6a97c-c2ee-4b5f-bcd6-057960db881b.jpg
+type: workshop
 images: []
 ---
 Our workshop at the LungA festival 2018 will be an examination of ways to copy figures. What happens when you have an object or an image that you want to reproduce?
