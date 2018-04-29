@@ -1,11 +1,27 @@
 ---
 layout: page
 title: Comfort zone
-type: workshop
+title_is: Þægindaramminn
+body_is: >-
+  Á námskeiðinu munum við finna þægindaramma hvers og eins njóta þess að vera
+  innan hans í 2 daga og kíkja svo á hvað liggur fyrir utan sem væri gaman að
+  hleypa inn.
+
+
+  Á námskeiðinu verða spunaaðferðiri danshöfunda skoðaðar og vinnuaðferðir sem
+  mér finnst frábært að nota.
+
+
+  Þáttakendur munu læra aðferðir við gerð hreyfiefnis sem geta nýst þeim í
+  sköpunarferli hver sem lokaútkoman er. Sviðsverk, dansverk, tónleikar,
+  málverk, texti.
+
+
+  <http://www.siggasoffia.com>
 cover_photo: /img/uploads/nnsiggasoffia-.jpg
 images:
   - /img/uploads/nnsiggasoffia-.jpg
-
+type: workshop
 ---
 We will find the comfort zone and enjoy the stay there for a couple of days. Then we will take a look at what is outside of the comfort zone and find out what we would like to try.
 
