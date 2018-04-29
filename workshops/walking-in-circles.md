@@ -1,10 +1,59 @@
 ---
 layout: page
 title: Walking in circles
-type: workshop
+title_is: Gengið í hringi
+body_is: >-
+  Á LungA hátíðinni nú í ár munum við (allir þátttakendur) skuldbinda okkur til
+  að taka þátt í sólarhrings gjörning sem fjallar um hugmyndina um mótmælagöngu.
+  Ástæður eru enn óræðar. 
+
+
+  En þar sem við erum á lífi getum við allt eins leikið okkar hlutverk án þess
+  að segja upp tilvist okkar varðandi hverskonar tilfallandi útfærslu á því
+  sinnuleysi sem við erum innanum. Sem tímabundin fullnæging munum við fara í
+  kringum fjall, vera fyrir norðan fjall, vera á toppi fjalls, vera við aðra
+  hlið fjalls. Spírall tilgangslauss ásetnings. 
+
+
+  Listin að ganga samhliða atburðarás sem skapast með orðum og/eða að orða það
+  sem skapar atburðarás. Að tala og ganga eru hvort um sig að skera út rými í
+  veröldinni fyrir tilvist einhvers. Hljómur radda okkar mun bergmála í
+  fjöllunum. 
+
+
+  Vinsamlegast komið með hlý föt sem henta til vinnu utandyra (að nóttu).
+
+
+  Gjörningurinn hefst fimmtudagskvöldið kl. 22:00 og stendur yfir meira og minna
+  í 24 klukkustundir. Allir þátttakendur munu fá frekari upplýsingar viku fyrir 
+  gjörninginn. Við lýsum okkur tilbúna til að taka tillit til mögulegrar
+  truflunar sem verður á verklagi okkar og skynjun í ferlinu. 
+
+
+  Lasse Hogenhof (DK) og Jonatan Spejlborg (DK) er báðir búsettir og starfandi
+  sem stjórnendur LungA skólans sem er tilraunakenndur listaskóli og Heima lista
+  residensíunnar, sem hvorutveggja eru á Seyðisfirði. Samstarf þeirra snýst
+  meira og minna um að skapa og afhjúpa áhugaverðurstu mögulega stöðu
+  siðmenntaðra forma, atburðarása og fullkominna skuldbindinga. 
+
+
+  LungA skólinn er sjálfstætt starfandi listastofnun, tilraunastofa á sviði
+  listsköpunar, gjörninga, hugsunar og tilveru sem og staður til að rækta,
+  trufla, bjaga og umbreyta okkar vitund um  fagurfræði, þekkingu og skilning. 
+
+
+  Heima lista residensía er fyrirkomulag leitt er af alþjóðlegum listamönnum sem
+  tímabundið starfa saman í húsi og stúdíói á Seyðisfirði. 
+
+
+  [http://www.projectanywhere.net/84-by-lunga-school](http://www.projectanywhere.net/84-by-lunga-school/)
+
+
+  [http://h-e-i-m-a.com](http://h-e-i-m-a.com/)
 cover_photo: /img/uploads/17952817_10155901793533943_4484709010445700860_n.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share6.jpg
+type: workshop
 ---
 On this years LungA Festival we (everyone involved) will engage in a 24-hour performance concerning the idea of demonstration.
 
@@ -32,6 +81,6 @@ The LungA School is an independent, artist-led institution and situation experim
 
 The HEIMA Art residency is an artist-led structure that holds temporary curated collectives of international artists in a house and studio in Seydisfjordur.
 
-<http://www.projectanywhere.net/84-by-lunga-school/>
+[http://www.projectanywhere.net/84-by-lunga-school](http://www.projectanywhere.net/84-by-lunga-school/)
 
-<http://h-e-i-m-a.com/>
+[http://h-e-i-m-a.com](http://h-e-i-m-a.com/)
