@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Characters
-cover_photo: /img/uploads/_t3a9805.jpg
+cover_photo: /img/uploads/trygve.jpg
 images: []
 ---
 Have fun to develop characters. Have fun to pretend that no-one knows that it's you. Have fun to show us your beauty and charm and humour from behind your disguise.
