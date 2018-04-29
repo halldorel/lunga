@@ -1,10 +1,59 @@
 ---
 layout: page
-title: Enter the Dream
-type: workshop
+title: ENTER THE DREAM //
+title_is: VEISTU HVAÐ MIG DREYMDI //
+body_is: >-
+  Þú trúir ekki hvað mig dreymdi í nótt
+
+
+  \-Hvað?
+
+
+  Bíddu, ég skal sýna þér
+
+
+  Á námskeiðinu nýtum við óheflað ímyndunarafl okkar til listsköpunar - við
+  viljum þig og allar þínar súrealísku og hversdagslegu hugmyndir.
+
+
+
+
+  Hvað ef við gætum öll upplifað sama drauminn? sömu martröðina?
+
+
+  VEISTU HVAÐ MIG DREYMDI //
+
+
+
+
+  Dominique útskrifaðist úr Listaháskóla Íslands árið 2015 af leikarabraut. Hún
+  hefur starfað sem leikkona og einnig við kvikmyndagerð sem aðstoðarleikstjóri
+  (FANGAR) og Casting Director (KONA FER Í STRÍÐ). Síðustu tvö ár hefur hún
+  skrifað og leikstýrt tveimur menntaskólasýningum fyrir Verzlunarskóla Íslands.
+  Síðasta leikstjórnar verkefnið dró innblástur frá Norsku sjónvarpsþáttunum
+  SKAM og naut mikilla vinsælda. Hún notar iðulega devised aðferðir og drauma í
+  sinni vinnu.
+
+
+
+
+  Sóley Stefánsdóttir útskrifaðist af tónsmíðabraut Listaháskóla Íslands árið
+  2010. Árið 2011 gaf hún út sína fyrstu breiðskífu “We Sink” sem fékk afar
+  góðar viðtökur. Síðan þá hefur hún verið iðin við tónleikaferðalög ásamt
+  útgáfum en árið 2015 kom platan hennar “Ask the Deep” út. Nú á síðasta ári
+  leit platan “Endless summer” dagsins ljós. Í lok árs 2017 kom svo út platan
+  “Team Dreams”, samstarfsverkefni Sóleyjar, Sindra Más Sigfússonar (Sin Fang)
+  og Örvars Smárasonar (múm) samansafn laga sem þau höfðu gefið út í hverjum
+  mánuði út árið 2017.
+
+
+  Að auki hefur hún gefið út þrjár smáskífur og unnið að tónlist fyrir leikhús,
+  kvikmyndir, dansverk og stuttmyndir. Sóley kennir Laga og textasmíðar við
+  Listaháskóla Íslands.
 cover_photo: /img/uploads/enter-the-dream.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share3.jpg
+type: workshop
 ---
 I had the craziest dream last night
 
