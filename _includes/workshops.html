@@ -5,11 +5,16 @@
     <div class="workshops__item">
 
     <a href="{{ workshop.url }}">
-    <div class="workshop__image" style="background-image: url({{ workshop.cover_photo }})">
-    </div>
+      <div class="workshop__image" style="background-image: url({{ workshop.cover_photo }})">
+      </div>
 
-    <div class="workshop__title">{{ workshop.title }}</div>
-
+      <div class="workshop__title">
+      {% if page.lang == "en" %}
+        {{ workshop.title }}
+      {% else %}
+        {{ workshop.title_is }}
+      {% endif %}
+      </div>
     </a>
     </div>
   {% endfor %}

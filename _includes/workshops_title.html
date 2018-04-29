@@ -1,2 +1,7 @@
+{% if page.lang == "en" %}
+<h3 style="padding-top: 40px;">WORKSHOPS</h3>
+  {% include workshops.html %}
+{% else %}
 <h3 style="padding-top: 40px;">VINNUSTOFUR</h3>
-{% include workshops.html %}
+  {% include workshops.html %}
+{% endif %}
