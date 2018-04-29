@@ -3,7 +3,7 @@ layout: page
 title: Musical Trip
 title_is: Tónlistartripp
 body_is: >-
-  LungA og Listadeild Seyðisfjarðarskóla vill kynna þess smiðju fyrir ungt fólk
+  LungA og Listadeild Seyðisfjarðarskóla vilja kynna þess smiðju fyrir ungt fólk
   á aldrinum 12-18 ára.
 
 
