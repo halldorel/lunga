@@ -16,18 +16,41 @@ layout: default
     }
     {% endif %}
   </style>
-  <h1>{{ page.title }}</h1>
+  <h1 id="page_title">{{ page.title }}</h1>
 
   {% if page.cover_photo %}
   <img src="{{ page.cover_photo }}" />
   {% endif %}
 
+  <div id="main_text_content">
     {{ content }}
+  </div>
 
   {% if page.tail_photo %}
     <img src="{{ page.tail_photo }}" />
   {% endif %}
 
-
 </section>
 
+<script>
+
+  var isTitle = "{{ page.title_is }}";
+  var isContent = `{{ page.body_is | markdownify }}`;
+
+  function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+
+  if(window.location.href.indexOf("workshops") > -1) {
+    if(getParameterByName("lang") != "en") {
+      $("#main_text_content").html(isContent);
+      $("#page_title").html(isTitle);
+    }
+  }
+</script>

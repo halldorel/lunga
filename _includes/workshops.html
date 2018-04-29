@@ -4,7 +4,7 @@
   {% for workshop in workshops %}
     <div class="workshops__item">
 
-    <a href="{{ workshop.url }}">
+    <a href="{{ workshop.url }}{% if page.lang == "en" %}?lang=en{% endif%}">
       <div class="workshop__image" style="background-image: url({{ workshop.cover_photo }})">
       </div>
 
