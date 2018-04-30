@@ -2,11 +2,14 @@
 layout: page
 title: Umsóknir
 permalink: /umsoknir
+lang: íslenska
 cover_photo: /img/uploads/tumblr_otcin0mhju1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_otasw2uald1vaprzlo1_1280.jpg
 heading_color: '#151A41'
 ---
 Umsóknir fyrir þátttöku í listasmiðjum. Sjá nánar um listjasmiðjur [hér.](http://lunga.is/dagskra)
+
+
 
 **Umsóknaform Sjálfboðaliðar **
 
@@ -14,11 +17,15 @@ Umsóknafrestur 15 maí 2018.
 
 Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019. [Hér](https://podio.com/webforms/20703886/1425536) má sækja um. 
 
+
+
 **Umsóknarform fyrir tónlistarfólk**
 
 Umsóknafrestur 15. Mars 2018. 
 
 Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019.  [Hér](https://podio.com/webforms/20769252/1427418) má sækja um.
+
+
 
 **Umsóknarform fyrir listasýningar og aðra viðburði. **
 
@@ -26,11 +33,15 @@ Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019.
 
 Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019. [Hér](https://podio.com/webforms/20769251/1427416) má sækja um. 
 
+
+
 **Umsóknaform fyrir listasmiðjukennara**
 
 Umsóknafrestur 15. Mars. 
 
 Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019. [Hér](https://podio.com/webforms/20769289/1427422) má sækja um. 
+
+
 
 **Umsóknaform fyrir fyrirlesara**
 
