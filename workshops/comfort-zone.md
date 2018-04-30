@@ -17,6 +17,48 @@ body_is: >-
   málverk, texti.
 
 
+  Sigga Soffía útskrifaðist með BA-gráðu frá samtímadansbraut Listaháskóla
+  Íslands en hún var í skiptinámi í einum fremsta sirkusskóla Evrópu ESAC  Ecole
+  Superior des Arts de Cirque.
+
+
+  Sigga Soffía útskrifaðist af samtímadansbraut frá Listaháskóla Íslands árið
+  2009 en á lokaári sínu var hún í skiptinámi við sirkusskólann Ecole Superior
+  des Arts de Cirque í Brussel. Sigga Soffía hefur unnið bæði sem dansari og
+  danshöfundur í fjölmörgum uppfærslum, bæði hérlendis sem erlendis, og hefur
+  m.a. dansað með Shalala, dansflokki Ernu Ómarsdóttur, síðan 2009.
+
+
+  Hún hefur vakið mikla athygli sem danshöfundur en verk hennar Svartar fjaðrir
+  opnaði 29. Listahátíð í Reykjavík á Stóra sviði Þjóðleikhússins í maí 2015.
+  Svartar fjaðrir hlaut þrjár tilnefningar til Grímunnar; sem Sproti ársins,
+  Búningahönnuður ársins og Tónlist ársins.
+
+
+  Sigga Soffía var einnig tilnefnd til Grímunnar sem Danshöfundur ársins fyrir
+  verkið White for Decay (2011) og tilnefningu sem Dansari ársins fyrir FUBAR
+  (2017) 
+
+
+  Sigga Soffía er einna þekktust fyrir flugeldasýningar sínar á menningarnóttum
+  Reykjavíkur en árið 2013 hlaut hún Menningarverðlaun DV fyrir Eldar sem var
+  fyrsta flugeldaverkið hennar. Í framhaldi var henni boðið að gera
+  opnunarflugeldasýningu La Mercé borgarhátíðar Barcelonaborgar þar sem
+  flugeldasýningu hennar Northern Nights var skotið upp fyrir 2 miljónir manna
+  frá Barceloneta ströndinni. 
+
+
+  Síðustu ár hefur Sigga Soffía skoðað mismunandi leiðir til að miðla hreyfingu
+  og tekið þátt í ólíkum verkefnum allt frá því að semja dans fyrir 3 tonn af
+  flugeldum, sungið eitt aðalhlutverka Red Waters óperu í Frakklandi, dansað á
+  Paris Fashion week, samið dans fyrir alþjóðlegar auglýsingar og unnið til
+  verðlauna fyrir leikstýringu á dansstuttmyndum. 
+
+
+  Sigga Soffía og Helgi Már myndlistarmaður opnuðu nýverið myndlistarsýninguna
+  Hamskiptin í Listamenn gallery þar sem dans breyttist í myndverk.
+
+
   <http://www.siggasoffia.com>
 cover_photo: /img/uploads/nnsiggasoffia-.jpg
 images:

@@ -1,7 +1,8 @@
 ---
-title: LungA 2018
-permalink: "/"
 layout: home
+title: LungA 2018
+lang: en
+permalink: /
 cover_photo: /img/uploads/lunga_web_cover.jpg
 instagram_images:
   - /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
@@ -15,6 +16,9 @@ concert_images:
   - /img/uploads/img_9970.jpg
   - /img/uploads/soleima-2018-credits-jonas-bang.jpg
   - /img/uploads/vok3_0118_lowres.jpg
-sections: ["concert", "workshops", "instagram"]
+sections:
+  - workshops
+  - concert
+  - instagram
 ---
 
