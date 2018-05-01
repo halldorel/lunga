@@ -60,9 +60,6 @@ body_is: >-
 
 
   <http://www.siggasoffia.com>
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/nnsiggasoffia-.jpg
 images:
   - /img/uploads/nnsiggasoffia-.jpg
@@ -79,5 +76,3 @@ She best known for her fireworks performances- choreographing the fireworks show
 From singing one of the lead roles in the Opéra de Rouen in France, to choreographing a danceperformance for 3 tons of fireworks in the center of Icelands Capital, Sigga Soffia explores movement in all its forms and mediums. Latest theatre performances include Svartar Fjaðrir- opening stage performance of 29.Reykjavík Arts Festival, choreography for fireworks, choreography for the National Dance company of Iceland, performing at Paris Fashion Week and making dance for film.
 
 <http://www.siggasoffia.com>
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
