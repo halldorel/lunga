@@ -25,9 +25,6 @@ body_is: >-
 
 
   <https://www.instagram.com/markbohle>
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/62d6a97c-c2ee-4b5f-bcd6-057960db881b.jpg
 images: []
 type: workshop
@@ -43,5 +40,3 @@ Mareen Wrobel (GER) & Mark Bohle (BCN) – Best friends but designers.
 [https://www.instagram.com/mareenwrobel](https://www.instagram.com/mareenwrobel/)
 
 <https://www.instagram.com/markbohle>
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
