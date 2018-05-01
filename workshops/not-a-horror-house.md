@@ -35,9 +35,6 @@ body_is: >-
   bakgrunn í hönnun og uppsetningu leikmynda. Stefán er einnig mjög aktívur og á
   sér mjög mörg áhugamál t.d. brimbretti, snjóbretti, fjallahjól, kayak,
   fríköfun og margt fleira.
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/lungaworkshop.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share5.jpg
@@ -54,5 +51,3 @@ What is happiness?
 Ólafur Ásgeirsson is a 27 year old actor, he graduated from the acting department of The Arts Academy of Iceland in 2015. He then graduated from the Michael Chekhov Acting Studio in New York the following year. He's an active member of Improv Iceland and performs comedy improv shows that are made up on the spot every week in the National Theatre. Ólafur was a very talented footballer in his early days but now he enjoys watching it on TV.
 
 Stefán Örn Stefánsson is a 30 year old Product Designer graduating from Iceland Academy of the Arts in spring 2018. He has been working for the last 5 years alongside school at Össur, designing braces for people with osteoarthritis. Stefán also studied Production Technology in Denmark and graduated in 2011. His background is in building and designing sets for theatre. Stefán is also a very active person and has endless hobbies for example surfing, snowboarding, mountain biking, kayaking, free diving and much more.
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
