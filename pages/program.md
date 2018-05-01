@@ -31,7 +31,7 @@ The price for the Friday workshop is 15.000 ISK and it includes participation in
 
 The price for the youth workshop is 10.000 ISK and it includes a week-long workshop with Benni Hemm Hemm and Magga Stína and lunch throughout the week. Please note that accommodation is not included in the youth workshop.
 
-Sign up for the workshops [HERE](<https://podio.com/webforms/20823240/1432298 >)
+Sign up for the workshops - SOLD OUT
 
 Sign up for the Youth workshop age 12-18 years  [HERE](<https://podio.com/webforms/20823273/1432303 >)
 
