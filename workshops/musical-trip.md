@@ -45,6 +45,9 @@ body_is: >-
   Magga Stína er tónlistarkona og kennari og útvarpskona og gleðisprengja. Benni
   Hemm Hemm er listamannsnafn Benedikst H. Hermannssonar, sem er tónlistarmaður
   og kennari við listadeild Seyðisfjarðarskóla.
+
+
+  Skráðu þig [HÉR](<https://podio.com/webforms/20823273/1432303 >)
 cover_photo: /img/uploads/bhhms.jpg
 images:
   - null
@@ -65,3 +68,5 @@ The goal is to come to LungA with open hearts ready to create and at the end we 
 In this way, we learn from our own creative power, as well as the creativity of each other. We train ourselves in listening and other useful, fun aspects. All of this we learn from each other and get in a unique way through the music.
 
 Magga Stína is a musician, a teacher and a radio star. Benni Hemm Hemm is the artist name of Benedikt H. Hermannsson a musician and a teacher at the art department in Seyðisfjarðarskóli.
+
+Sign up [HERE](<https://podio.com/webforms/20823273/1432303 >)
