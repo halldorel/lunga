@@ -37,9 +37,6 @@ body_is: >-
 
 
   [ www.sourcematerialcollective.com](< www.sourcematerialcollective.com>)
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/samanatha-1.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share4.jpg
@@ -52,5 +49,3 @@ SOURCE MATERIAL is an artist collective  based in Reykjavik and the US. The coll
 This workshop is facilitated by company members Nini Julia Bang, a performer, singer, and voice pedagogue from Copenhagen, and longtime artist in residence at the Grotowski Institute and performer with Teatr ZAR, Annelise Lawson, NY based actor, and teacher of Russian etudes and collaborator of Dmitry Krymov, and artistic director and founder of the collective, Samantha Shay.
 
 [ www.sourcematerialcollective.com](< www.sourcematerialcollective.com>)
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
