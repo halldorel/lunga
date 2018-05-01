@@ -7,7 +7,7 @@ cover_photo: /img/uploads/tumblr_otcin0mhju1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_otasw2uald1vaprzlo1_1280.jpg
 heading_color: '#151A41'
 ---
-Apply to participate in a workshop at LungA festival [here](https://podio.com/webforms/20823240/1432298)
+Apply to participate in a workshop at LungA festival- SOLD OUT!
 
 Apply to the youth workshop for 12 - 18 years old [here](https://podio.com/webforms/20823273/1432303)<br><br>
 
