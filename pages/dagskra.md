@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Dagskrá
-permalink: is/dagskra
-lang: is
+permalink: IS/dagskra
+lang: IS
 cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
