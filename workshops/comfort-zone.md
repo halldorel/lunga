@@ -62,7 +62,7 @@ body_is: >-
   <http://www.siggasoffia.com>
 
 
-  Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
+  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/nnsiggasoffia-.jpg
 images:
   - /img/uploads/nnsiggasoffia-.jpg
