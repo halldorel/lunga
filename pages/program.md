@@ -2,10 +2,10 @@
 layout: page
 title: Program
 permalink: /en/program
+lang: en
 cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
-lang: en
 ---
 # Concert
 
@@ -19,17 +19,21 @@ Here you can see which artists will be performing at this year’s LungA concert
 
 There will be 9 workshops at LungA festival 2018.
 
-7 x Week-long Workshops, 1x Friday Workshop and 1 x Youth Workshop.
+7 x Week-long Workshops 
 
-The price for the week-long workshop is 45.000 ISK. That includes participation in a workshop, dormitory-style accommodation, three meals a day and access to all of the festival’s events. 
+1 x Friday Workshop
 
-The price for the Friday workshop is 15.000 ISK and it includes participation in the Friday workshop, dormitory-style accommodation from thursday - sunday, three meals a day while participating in the workshop and access to all of the festival’s events.  
+1 x Youth Workshop (age 12-18)
 
-Kids workshop-TBA
+The price for the week-long workshop is 45.000 ISK. That includes participation in a workshop, dormitory-style accommodation, three meals a day and access to all of the festival’s events. There is also an option to arrange your own accommodation or camping.
 
-Workshop Applications open on the 1st of May 2018. 
+The price for the Friday workshop is 15.000 ISK and it includes participation in the Friday workshop, dormitory-style accommodation from Thursday - Sunday and meals for the period of the workshop and access to all of the festival’s events.  
 
+The price for the youth workshop is 10.000 ISK and it includes a week-long workshop with Benni Hemm Hemm and Magga Stína and lunch throughout the week. Please note that accommodation is not included in the youth workshop.
 
+Sign up for the workshops [HERE](<https://podio.com/webforms/20823240/1432298 >)
+
+Sign up for the Youth workshop age 12-18 years  [HERE](<https://podio.com/webforms/20823273/1432303 >)
 
 {% include workshops.html %}
 
