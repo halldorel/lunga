@@ -28,9 +28,6 @@ body_is: >-
 
 
   [http://www.andrewthomashuang.com](http://www.andrewthomashuang.com/)
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/solipsist_still_11a_s.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share.jpg
@@ -43,5 +40,3 @@ Artist filmmaker Andrew Thomas Huang lives and works in Los Angeles. He studied 
 Huang's film and video work has exhibited at The Museum of Modern Art, NYC; MoMA PS1; The Barbican Centre, London; and the Museum of Contemporary Art, Los Angeles. As an experimental filmmaker whose work bridges the gap between video art and film, he has developed a strong reputation for his collaborative practice, having worked extensively with Icelandic artist Bjork, among others.
 
 <http://www.andrewthomashuang.com/>
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
