@@ -44,9 +44,6 @@ body_is: >-
   Að auki hefur hún gefið út þrjár smáskífur og unnið að tónlist fyrir leikhús,
   kvikmyndir, dansverk og stuttmyndir. Sóley kennir Laga og textasmíðar við
   Listaháskóla Íslands.
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/enter-the-dream.jpg
 images:
   - /img/uploads/lunga_workshop_fb_share3.jpg
@@ -71,5 +68,3 @@ Born in Hafnarfjörður, Iceland, Sóley has attracted a huge following with her
 Having studied piano and later composition at the Icelandic Art Academy, Sóley Stefánsdóttir, who was formerly a member of the band Seabear, released another EP entitled “Krómantík” in 2014, comprised of piano works and returned to even darker, nocturnal themes with sophomore album “Ask The Deep,” which came out in early 2015.
 
 Her third album "Endless summer" came out in May 2017 and the album “Team Dreams” came out by the end of the year 2017 where Sóley collaborated with Sin Fang & Örvar Smárason (múm) as they released a new song on a monthly basis throughout 2017. A new album is in progress where Sóley is experimenting with new sounds and compositions like accordion drone, theremin and mellotron.
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
