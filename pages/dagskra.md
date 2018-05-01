@@ -32,15 +32,13 @@ Gjald fyrir Föstudagsnámskeið er 15.000kr og innifalið í því verði er 
 
 Gjald fyrir listasmiðju unga fólksins er 10.000kr og innifalið er viku listasmiðja sem er stýrð af listamönnunum Benna Hemm Hemm og Möggu Stínu og hádegismatur út vikuna. LungA bíður ekki uppá gistingu með þessari smiðju.
 
-Skráning í listasmiðjur [HÉR](<https://podio.com/webforms/20823240/1432298 >)
+Skráning í listasmiðjur - Uppselt!
 
 Skráning í listasmiðju fyrir ungt fólk á aldrinum 12-18 ára [HÉR](<https://podio.com/webforms/20823273/1432303 >)
 
 Hlökkum til að sjá ykkur á LungA!
 
 Ást
-
-
 
 {% include workshops.html %}
 
