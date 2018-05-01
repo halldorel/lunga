@@ -11,7 +11,7 @@ heading_color: '#2A6F55'
 
 This year’s concert is going to be exquisite, having a versatile line up that contains everything from high-quality pop, international hip hop to artistic electronica. The headliner this year comes from the United States and is no other than the honorable Princess Nokia, who is known for her lively performances as well as her dynamic and feminist lyrics.  
 
-Here you can see which artists will be performing at this year’s LungA concert on the 20th and 21st of July  \  Buy tickets!
+Here you can see which artists will be performing at this year’s LungA concert on the 20th and 21st of July  \  Buy tickets [here](https://tix.is/is/event/5706/lunga-2018/)!
 
 ![null](/img/uploads/lunga_fb_lineup_1.jpg)
 
