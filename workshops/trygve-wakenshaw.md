@@ -15,9 +15,6 @@ body_is: >-
 
 
   <http://www.trygvewakenshaw.net>
-
-
-  Skráðu þig [HÉR](<https://podio.com/webforms/20823240/1432298 >)
 cover_photo: /img/uploads/trygve.jpg
 images: []
 ---
@@ -32,5 +29,3 @@ Trygve Wakenshaw is a great performer who specialises in physical comedy. He’s
 Trygve trained with Philippe Gaulier for two years and taught at his school after finishing.
 
 [http://www.trygvewakenshaw.net](http://www.trygvewakenshaw.net/)
-
-Sign up [HERE](<https://podio.com/webforms/20823240/1432298 >)
