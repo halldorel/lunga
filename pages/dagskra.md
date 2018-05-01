@@ -2,6 +2,7 @@
 layout: page
 title: Dagskrá
 permalink: /dagskra
+lang: Isl
 cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
@@ -17,17 +18,29 @@ Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar �
 
 ## Listasmiðjur
 
-Listasmiðjur LungA 2018 verða 9 talsins.
+Listasmiðjur LungA 2018 eru 9 talsins.
 
-7 vikulangar smiðjur, 1 föstudagsmiðja og 1 krakkasmiðja.
+7 vikulangar listasmiðjur
 
-Gjald fyrir viku námskeið er 45.000kr og innifalið í því verði er þátttaka í listasmiðju, gisting í svefnpoka plássi, fullt fæði og aðgangur að öllum viðburðum hátíðarinnar.
+ 1 föstudag listasmiðja
+
+ 1 Listasmiðja fyrir ungt fólk 12-18 ára.
+
+Gjald fyrir viku námskeið er 45.000kr og innifalið í því verði er þátttaka í listasmiðju, gisting í svefnpoka plássi, fullt fæði og aðgangur að öllum viðburðum hátíðarinnar. Það er einnig möguleiki að skrá sig á LungA tjaldsvæði eða þitt eigið húsnæði.
 
 Gjald fyrir Föstudagsnámskeið er 15.000kr og innifalið í því verði er þátttaka í listasmiðjuna, gisting, fæði á meðan námskeiðinu stendur og aðgangur að öllum viðburðum hátíðarinnar.
 
-Krakkasmiðjan-TBA
+Gjald fyrir listasmiðju unga fólksins er 10.000kr og innifalið er viku listasmiðja sem er stýrð af listamönnunum Benna Hemm Hemm og Möggu Stínu og hádegismatur út vikuna. LungA bíður ekki uppá gistingu með þessari smiðju.
 
-Skráning í smiðjur hefjast 1.maí. Nánar síðar.
+Skráning í listasmiðjur [HÉR](<https://podio.com/webforms/20823240/1432298 >)
+
+Skráning í listasmiðju fyrir ungt fólk á aldrinum 12-18 ára [HÉR](<https://podio.com/webforms/20823273/1432303 >)
+
+Hlökkum til að sjá ykkur á LungA!
+
+Ást
+
+
 
 {% include workshops.html %}
 
