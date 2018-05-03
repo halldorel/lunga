@@ -4,7 +4,7 @@ title: Musical Trip
 title_is: Tónlistartripp
 body_is: >-
   LungA og Listadeild Seyðisfjarðarskóla vilja kynna þess smiðju fyrir ungt fólk
-  á aldrinum 12-18 ára.
+  á aldrinum 12-18 ára frá 12.-18. júlí.
 
 
   Hópurinn stillir saman strengi sína undir leiðsögn Möggu Stínu og Benna. Allir
@@ -48,12 +48,15 @@ body_is: >-
 
 
   Skráðu þig [HÉR](<https://podio.com/webforms/20823273/1432303 >)
+
+
+  Verð 10.000.kr (viku listasmiðja og hádegismatur)
 cover_photo: /img/uploads/bhhms.jpg
 images:
   - null
 type: workshop
 ---
-Lunga and the art department in Seyðisfjarðarskóla would like to invite all young adults from the age of 12-18 to join this workshop
+Lunga and the art department in Seyðisfjarðarskóla would like to invite all young adults from the age of 12-18 to join this workshop from the 16th-20th of July.
 
 The group will be lead by Magga Stína and Benni.Everyone will pick a musical instrument, of course with respect to each and every person's enthusiasm (participants may bring their own instruments!)
 
@@ -70,3 +73,5 @@ In this way, we learn from our own creative power, as well as the creativity of 
 Magga Stína is a musician, a teacher and a radio star. Benni Hemm Hemm is the artist name of Benedikt H. Hermannsson a musician and a teacher at the art department in Seyðisfjarðarskóli.
 
 Sign up [HERE](<https://podio.com/webforms/20823273/1432303 >)
+
+Price 10.000.kr (week long workshop and lunch)
