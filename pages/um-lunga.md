@@ -2,7 +2,7 @@
 layout: page
 title: Um LungA
 permalink: /um-lunga
-lang: is
+lang: íslenska
 cover_photo: /img/uploads/tumblr_otlqer87jn1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/5i7a6947-1-1.jpg
 heading_color: '#DE7464'
@@ -30,8 +30,6 @@ Við vonumst til þess að sjá ykkur sem flest á LungA í ár.
 Ást!
 LungA
 
-
-
 Samstarfsaðilar LungA
 
-![](/img/uploads/samstarfsaðilar.png)
+![null](/img/uploads/samstarfsaðilar.png)
