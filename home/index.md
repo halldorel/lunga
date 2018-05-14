@@ -3,7 +3,7 @@ layout: home
 title: LungA 2018
 lang: is
 permalink: /
-cover_photo: /img/uploads/lunga_web_cover_1.png
+cover_photo: /img/uploads/lunga_web_cover_2.jpg
 instagram_images:
   - /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
 concert_images:
