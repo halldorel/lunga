@@ -42,3 +42,11 @@ $(".image__widget .arrow--right a").click(function(e) {
     $(e.target).parent().parent().parent().find("img.photo").first().addClass("visible");
   }
 });
+
+$(window).on('scroll', function() {
+  $("#lines path").each(function(i, el) {
+    var scroll = $(window).scrollTop();
+    $(el).css('transform', 'rotate(' + Math.sin((2*i/11)*Math.PI+(scroll/700))*5 + 'deg)');
+    $(el).css('transform-origin', '50% 50%');
+  });
+});
