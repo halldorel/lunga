@@ -1,9 +1,9 @@
 ---
-title: Concert
-permalink: "/en"
 layout: home-en
+title: Concert
 lang: en
-cover_photo: /img/uploads/lunga_web_cover.jpg
+permalink: /en
+cover_photo: /img/uploads/lunga_web_cover_4.png
 instagram_images:
   - /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
 concert_images:
@@ -16,5 +16,7 @@ concert_images:
   - /img/uploads/img_9970.jpg
   - /img/uploads/soleima-2018-credits-jonas-bang.jpg
   - /img/uploads/vok3_0118_lowres.jpg
+sections:
+  - null
 ---
 
