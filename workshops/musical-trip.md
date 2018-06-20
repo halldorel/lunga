@@ -4,7 +4,7 @@ title: Musical Trip
 title_is: Tónlistartripp
 body_is: >-
   LungA og Listadeild Seyðisfjarðarskóla vilja kynna þess smiðju fyrir ungt fólk
-  á aldrinum 12-18 ára frá 12.-18. júlí.
+  á aldrinum 12-18 ára 16.-20. júlí.
 
 
   Hópurinn stillir saman strengi sína undir leiðsögn Möggu Stínu og Benna. Allir
