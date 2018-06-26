@@ -25,8 +25,6 @@ We hope to see as many of you as possible at LungA this year.
 
 Love! LungA.
 
+## Collaborators 
 
-
-Collaborators 
-
-![](/img/uploads/samstarfsaðilar.png)
+![null](/img/uploads/samstarfsaðilar.png)
