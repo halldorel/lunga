@@ -17,7 +17,6 @@ concert_images:
   - /img/uploads/img_9970.jpg
   - /img/uploads/soleima-2018-credits-jonas-bang.jpg
   - /img/uploads/vok3_0118_lowres.jpg
-sections:
-  - concert
+sections: []
 ---
 
