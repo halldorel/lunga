@@ -30,6 +30,6 @@ Við vonumst til þess að sjá ykkur sem flest á LungA í ár.
 Ást!
 LungA
 
-Samstarfsaðilar LungA
+## Samstarfsaðilar LungA
 
 ![null](/img/uploads/samstarfsaðilar.png)
