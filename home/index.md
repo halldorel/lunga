@@ -21,5 +21,6 @@ sections:
   - concert
   - workshops
   - instagram
+  - concert
 ---
 
