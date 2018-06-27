@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Walking in circles
-title_is: Gengið í hringi
+title: Walking in circles - Friday Workshop
+title_is: Gengið í hringi - Föstudagssmiðja
 body_is: >-
   Á LungA hátíðinni nú í ár munum við (allir þátttakendur) skuldbinda okkur til
   að taka þátt í sólarhrings gjörning sem fjallar um hugmyndina um mótmælagöngu.
@@ -24,10 +24,10 @@ body_is: >-
   Vinsamlegast komið með hlý föt sem henta til vinnu utandyra (að nóttu).
 
 
-  Gjörningurinn hefst fimmtudagskvöldið kl. 22:00 og stendur yfir meira og minna
-  í 24 klukkustundir. Allir þátttakendur munu fá frekari upplýsingar viku fyrir 
-  gjörninginn. Við lýsum okkur tilbúna til að taka tillit til mögulegrar
-  truflunar sem verður á verklagi okkar og skynjun í ferlinu. 
+  **Gjörningurinn hefst fimmtudagskvöldið kl. 22:00 og stendur yfir meira og
+  minna í 24 klukkustundir.** Allir þátttakendur munu fá frekari upplýsingar
+  viku fyrir  gjörninginn. Við lýsum okkur tilbúna til að taka tillit til
+  mögulegrar truflunar sem verður á verklagi okkar og skynjun í ferlinu. 
 
 
   Lasse Hogenhof (DK) og Jonatan Spejlborg (DK) er báðir búsettir og starfandi
@@ -67,7 +67,7 @@ An act of walking combined with actions of performing words and/or words that pe
 
 Please bring warm clothes for working and being outside (at night).
 
-The performance begins thursday night 22.00 and last not more or less then 24 hours.
+**The performance begins thursday night 22.00 and last not more or less then 24 hours.**
 
 Everyone involved will receive more information one week before the performance begins.
 
