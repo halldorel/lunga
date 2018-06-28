@@ -14,14 +14,13 @@ Hafnargata 44<br>
 Kt. 600201-2120<br>
 lunga(at)lunga.is<br>
 
-
-## Framkvæmdastjóri
+## Framkvæmdastýra
 
 Björt Sigfinnsdóttir<br>
 (+45)28993633<br>\
 bjort(at)lunga.is
 
-## Fjármálastjóri
+## Fjármálastýra
 
 Aðalheiður Lóa Borgþórsdóttir<br>
 8617789<br>\
@@ -53,6 +52,13 @@ Lama-sea Dear<br>
 7848746<br>
 
 lama(at)lunga.is
+
+## Framleiðsla
+
+Celia Harrison<br>
+6268952<br>
+
+celia(at)lunga.is
 
 ## Ungmenna skipti
 
