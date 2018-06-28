@@ -14,7 +14,7 @@ Tónleikarnir verða veglegir í ár og spanna allt frá hágæða poppi, alþj�
 Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár dagana 20. & 21. júlí. \
 [Kaupa miða. ](https://tix.is/is/event/5706/lunga-2018/)
 
-![null](/img/uploads/lunga_fb_lineup_1.jpg)
+![null](/img/uploads/lunga_fb_lineup_final_1024.jpg)
 
 ## Listasmiðjur
 
