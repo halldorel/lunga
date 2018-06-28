@@ -13,47 +13,58 @@ Hafnargata 44<br>
 710 Seyðisfjörður<br>
 Kt. 600201-2120<br>
 lunga(at)lunga.is<br>
-8617789 & 8615859
+
 
 ## Framkvæmdastjóri
 
 Björt Sigfinnsdóttir<br>
-(+45)28993633 & 8663046
+(+45)28993633 & 8663046<br>\
+bjort(at)lunga.is
 
 ## Fjármálastjóri
 
 Aðalheiður Lóa Borgþórsdóttir<br>
-8617789
+8617789<br>\
+alla(at)lunga.is
 
 ## Listasmiðjur
 
 Sesselja Hlín Jónasardóttir<br>
-7702444
+7702444<br>\
+sesselja(at)lunga.is
 
 ## Tónlist
 
 Rögnvaldur Skúli Árnason<br>
-8955888
+8955888<br>
+
+skuli(at)lunga.is
 
 ## Sýningar, fyrirlestrar og aðrir viðburðir
 
 Hilmar Guðjónsson<br>
-8453527
+8453527<br>
+
+hilmar@lunga.is
 
 ## Sjálfboðaliðar
 
-Lama Sea-dear<br>
-7848746
+Lama-sea Dear<br>
+7848746<br>
 
-Celia Harris
+lama(at)lunga.is
 
 ## Ungmenna skipti
 
 Björt Sigfinnsdóttir<br>
-(+45)28993633 & 8663046
+(+45)28993633 & 8663046<br>
+
+bjort(at)lunga.is
 
 Ólafur Daði Eggertsson<br>
-6592191
+6592191<br>
+
+olafur(at)lunga.is
 
 ## LungA Skólinn
 
@@ -66,10 +77,14 @@ school(at)lunga.is<br>
 ## Forsvarsmenn skólans
 
 Jonatan Spejlborg Jensen<br>
-7863402
+7863402<br>
+
+jonatan(at)lunga.is
 
 Lasse Høgenhof<br>
-7758640
+7758640<br>
+
+lasse(at)lunga.is
 
 ## Grafísk hönnun
 
