@@ -8,7 +8,6 @@ instagram_images:
   - /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
 concert_images:
   - /img/uploads/lunga_fb_lineup_final_1024.jpg
-  - /img/uploads/29598095_10160652247580455_1826698503774693397_n-2.jpg
   - /img/uploads/pic.alviaxskrattar.jpg
   - /img/uploads/credit-milah-libin-a3.jpg
   - /img/uploads/joipexkroli.jpg
