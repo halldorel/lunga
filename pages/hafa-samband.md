@@ -53,7 +53,7 @@ Lama-sea Dear<br>
 
 lama(at)lunga.is
 
-## Framleiðsla
+## Verkstjórn
 
 Celia Harrison<br>
 6268952<br>
