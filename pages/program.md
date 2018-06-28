@@ -13,7 +13,7 @@ This year’s concert is going to be exquisite, having a versatile line up that 
 
 Here you can see which artists will be performing at this year’s LungA concert on the 20th and 21st of July  \  Buy tickets [here](https://tix.is/is/event/5706/lunga-2018/)!
 
-![null](/img/uploads/lunga_fb_lineup_1.jpg)
+![null](/img/uploads/lunga_fb_lineup_final_1024.jpg)
 
 # Workshops
 
