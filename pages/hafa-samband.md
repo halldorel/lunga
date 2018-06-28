@@ -18,7 +18,7 @@ lunga(at)lunga.is<br>
 ## Framkvæmdastjóri
 
 Björt Sigfinnsdóttir<br>
-(+45)28993633 & 8663046<br>\
+(+45)28993633<br>\
 bjort(at)lunga.is
 
 ## Fjármálastjóri
@@ -57,7 +57,7 @@ lama(at)lunga.is
 ## Ungmenna skipti
 
 Björt Sigfinnsdóttir<br>
-(+45)28993633 & 8663046<br>
+(+45)28993633<br>
 
 bjort(at)lunga.is
 
@@ -72,7 +72,7 @@ Hafnargata 28<br>
 710 Seyðisfjörður<br>
 Kt. 660213-1200<br>
 school(at)lunga.is<br>
-+3547863402
+7863402
 
 ## Forsvarsmenn skólans
 
