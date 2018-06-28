@@ -57,6 +57,13 @@ Lama-sea Dear<br>
 
 lama(at)lunga.is
 
+## Production
+
+Celia Harrison<br>
+(+354)6268952<br>
+
+celia(at)lunga.is
+
 ## Youth exchange program
 
 Björt Sigfinnsdóttir<br>
