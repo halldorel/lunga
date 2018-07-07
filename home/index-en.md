@@ -19,4 +19,3 @@ concert_images:
   - /img/uploads/vok3_0118_lowres.jpg
 sections: []
 ---
-

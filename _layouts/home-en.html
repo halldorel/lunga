@@ -49,7 +49,15 @@ layout: default
           <img src="{{ image }}" class="photo" alt="Instagram images" />
         </div>
       {% endfor %}
-  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga">#LUNGA</a></h3>
+  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga">#Lunga2018</a></h3>
 </section>
 
 {% include workshops_title.html %}
+
+<section class="workshops_container paper">
+  {% if page.lang == "en" %}
+    <a href="https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_en" target="_blank"><br>LungA paper<br><br><img src="/assets/img/paper.png"></a>
+  {% else %}
+    <a href="https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_isl" target="_blank"><br>LungA blaðið<br><br><img src="/assets/img/paper.png"></a>
+  {% endif %}
+</section>
