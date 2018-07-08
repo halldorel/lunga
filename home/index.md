@@ -1,7 +1,7 @@
 ---
 layout: home
 title: LungA 2018
-lang: is
+lang: en
 permalink: /
 cover_photo: /img/uploads/lunga_web_cover_4.png
 instagram_images:
