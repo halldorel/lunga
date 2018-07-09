@@ -27,4 +27,4 @@ Love! LungA.
 
 ## Collaborators
 
-![null](/img/uploads/screen-shot-2018-07-09-at-13.40.16.png)
+![null](/img/uploads/screen-shot-2018-07-09-at-13.43.49.png)
