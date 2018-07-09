@@ -32,4 +32,4 @@ LungA
 
 ## Samstarfsaðilar LungA
 
-![null](/img/uploads/samstarfsaðilar.png)
+![null](/img/uploads/screen-shot-2018-07-09-at-13.40.16.png)
