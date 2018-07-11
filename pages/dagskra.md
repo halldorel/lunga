@@ -7,6 +7,20 @@ cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
 ---
+## Hátíðardagskrá LungA, talks og aðrir viðburðir
+
+LungA býður upp á háklassa alþjóðlega viðburði yfir alla vikuna og að tónlistarveislu LungA undanskylinni þá er öll dagskráin frí. 
+
+Gjörningar, fyrirlestrar, pallborðsumræður, talks, kvikmyndasýningar, danssýningar, myndlistarsýningar o.sv.frv.
+
+Þema hátíðiarinnar í ár er kyn eða "gender" og má því finna mikið af viðburðum sem fjalla um kyn á einn eða annan hátt og eru þeir jafnframt merktir "LungA LAB". 
+
+Sjáið fulla dagskrá hátíðarinnar hér, í [LungA blaðinu](https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_en). 
+
+![](/img/uploads/tumblr_otlq9kunnl1vaprzlo1_1280.jpg)
+
+
+
 ## Tónleikar
 
 Tónleikarnir verða veglegir í ár og spanna allt frá hágæða poppi, alþjóðlegu hip hoppi og artí elektroniku. Headlænerinn í ár kemur frá Bandaríkjunum og er engin önnur en hin valinkunna Princess Nokia, sem er þekkt fyrir líflega framkomu, framsækna og feminiska teksta.
@@ -44,10 +58,4 @@ Hlökkum til að sjá ykkur á LungA!
 
 ![null](/img/uploads/lunga-1-64.jpg)
 
-## LungA talks og aðrir viðburðir
-
-LungA býður upp á háklassa alþjóðlega viðburði yfir alla vikuna og að tónlistarveislu LungA undanskylinni þá er öll dagskráin frí.
-
-Við erum um þessar mundir að setja saman dagskránna fyrir 2018 en nánari upplýsingar koma innan skamms.
-
-Fylgist vel með!
+##
