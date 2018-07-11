@@ -7,6 +7,20 @@ cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#2A6F55'
 ---
+# LungA festival program, talks and other events
+
+LungA offers you a range of high-end international events across the week and it’s all free of charge, apart from the ticketed LungA concert during the weekend. 
+
+Performances, talks, paneldiscussions, movie screening, dance and theater shows etc...
+
+This years theme is gender and there for you will find a lot of events related to that topic. Those are marked "LungA LAB" and are a part of our collaboration with Erasmus+ and Appelsín.
+
+Check out the full program here in the [LungA paper](https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_en). 
+
+![](/img/uploads/tumblr_otlq9kunnl1vaprzlo1_1280.jpg)
+
+
+
 # Concert
 
 This year’s concert is going to be exquisite, having a versatile line up that contains everything from high-quality pop, international hip hop to artistic electronica. The headliner this year comes from the United States and is no other than the honorable Princess Nokia, who is known for her lively performances as well as her dynamic and feminist lyrics.  
@@ -39,10 +53,10 @@ Sign up for the Youth workshop age 12-18 years  [HERE](<https://podio.com/webfor
 
 ![null](/img/uploads/lunga-1-64.jpg)
 
-# LungA talks and other events
+# LungA LAB
 
-LungA offers you a range of high-end international events across the week and it’s all free of charge, apart from the ticketed LungA concert during the weekend. 
+is what we call our informative experimental laboratorium. Each year we choose a theme, this year it is "gender" and then we dig in to that theme from many different perspectives, through workshop work, talks, various gender related performamces, movie screening, panel discussions and so on. 
 
-As we speak, we at LungA are putting together the full program of lectures, exhibitions, movie screenings, performances etc...
+This is LungA's way to contribute to the awareness of social responsibility on individual and collective level, in hope to effect and inspire those involved to take action and be more open towards the diversity of others in general. 
 
-Keep a close eye on the website and social media as further information is on its way!
+LungA LAB is made in collaboratiomn with Erasmus+, appelsín, Kaospilot, Hyper Island, University of Brighton, Myndlistarskóli Reykjavíkur.
