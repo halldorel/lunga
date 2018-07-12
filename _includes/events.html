@@ -1,0 +1,21 @@
+<section class="workshops_container">
+  {% assign workshops = site.pages | where: "type", "event" %}
+
+  {% for workshop in workshops %}
+    <div class="workshops__item">
+
+    <a href="{{ workshop.url }}{% if page.lang == "en" %}?lang=en{% endif%}">
+      <div class="workshop__image" style="background-image: url({{ workshop.cover_photo }})">
+      </div>
+
+      <div class="workshop__title">
+      {% if page.lang == "en" %}
+        {{ workshop.title }}
+      {% else %}
+        {{ workshop.title_is }}
+      {% endif %}
+      </div>
+    </a>
+    </div>
+  {% endfor %}
+</section>

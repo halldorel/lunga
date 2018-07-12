@@ -40,7 +40,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Language", name: "lang", widget: "string", default: "is"}
+      - {label: "Language", name: "lang", widget: "select", options: ["is", "en"], default: "is"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/"}
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Instagram Images", name: "instagram_images", widget: "list", field: {label: Image, name: instagram_images, widget: image}}
@@ -60,3 +60,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Cover photo", name: "cover_photo", widget: "image"}
       - {label: "Images", name: "images", widget: "list", field: {label: Image, name: image, widget: image}}
       - {label: "Type", name: "type", widget: "hidden", default: "workshop"}
+
+  - name: "events"
+    label: "Events"
+    folder: "events"
+    create: true
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Íslenskur titill", name: "title_is", widget: "string", tagname: "h1"}
+      - {label: "Íslenskur texti", name: "body_is", widget: "markdown"}
+      - {label: "Cover photo", name: "cover_photo", widget: "image"}
+      - {label: "Images", name: "images", widget: "list", field: {label: Image, name: image, widget: image}}
+      - {label: "Type", name: "type", widget: "hidden", default: "event"}  

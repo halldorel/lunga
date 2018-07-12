@@ -53,4 +53,10 @@ layout: default
       $("#page_title").html(isTitle);
     }
   }
+  if(window.location.href.indexOf("events") > -1) {
+    if(getParameterByName("lang") != "en") {
+      $("#main_text_content").html(isContent);
+      $("#page_title").html(isTitle);
+    }
+  }
 </script>
