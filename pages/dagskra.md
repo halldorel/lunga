@@ -13,13 +13,11 @@ LungA býður upp á háklassa alþjóðlega viðburði yfir alla vikuna og að 
 
 Gjörningar, fyrirlestrar, pallborðsumræður, talks, kvikmyndasýningar, danssýningar, myndlistarsýningar o.sv.frv.
 
-Þema hátíðiarinnar í ár er kyn eða "gender" og má því finna mikið af viðburðum sem fjalla um kyn á einn eða annan hátt og eru þeir jafnframt merktir "LungA LAB". 
+Þema hátíðiarinnar í ár er kyn eða "gender" og má því finna mikið af viðburðum sem fjalla um kyn á einn eða annan hátt. Þeir jafnframt merktir "LungA LAB" og eru hluti af samstarfi hátíðariar við Erasmus+ og Appelsín. 
 
 Sjáið fulla dagskrá hátíðarinnar hér, í [LungA blaðinu](https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_en). 
 
-![](/img/uploads/tumblr_otlq9kunnl1vaprzlo1_1280.jpg)
-
-
+![null](/img/uploads/tumblr_otlq9kunnl1vaprzlo1_1280.jpg)
 
 ## Tónleikar
 
@@ -58,4 +56,10 @@ Hlökkum til að sjá ykkur á LungA!
 
 ![null](/img/uploads/lunga-1-64.jpg)
 
-##
+## LungA LAB
+
+er heitið fyrir tilrauna og upplýsingastofuna okkar. Ár hvert veljum við þema, í ár er það kyn eða "gender", sem við rannsökum frá allskonar mismunandi sjónarhornum, í gegnum vinnusmiðju, fyrirlestra, hina ýmsu kyn tengdu gjörninga, kvikmyndasýningar og pallborðsumræður, svo eitthvað sé nefnt.
+
+Þetta er okkar leið til að leggja lóð á vogarskálarnar þegar kemur að því að vekja samfélagið til ábyrgðar, bæði sem einstaklingar jafnt sem hópar. Við vonumst til þess að hafa áhrif og veita innblástur til þess að vera virkir samfélagsþegnar og meira opin gagnvart fjölbreitileika almennt.
+
+LungA LAB er haldið í samstarfi við Erasmus+, appelsín, Kaospilot, Hyper Island, University of Brighto og Myndlistarskóla Reykjavíkur.
