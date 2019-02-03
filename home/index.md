@@ -1,6 +1,6 @@
 ---
 layout: home
-title: LungA 2018
+title: LungA 2019
 lang: is
 permalink: /
 cover_photo: /img/uploads/lunga_web_cover_4.png
