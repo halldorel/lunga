@@ -83,7 +83,7 @@ $no-gutter--tablet-up: (
 
 body {
   overflow-x: hidden;
-  background-color: red;
+  //background-color: red;
   @include grid-media($grid--tablet-up) {
     overflow-x: visible;
   }
