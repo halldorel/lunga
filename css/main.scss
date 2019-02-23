@@ -19,10 +19,10 @@
 }
 
 ::selection {
-  background: $red; /* WebKit/Blink Browsers */
+  background: #6d35d8; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: $red; /* Gecko Browsers */
+  background: #6d35d8; /* Gecko Browsers */
 }
 
 $grid: (
@@ -82,8 +82,10 @@ $no-gutter--tablet-up: (
 }
 
 body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   overflow-x: hidden;
-  //background-color: red;
   @include grid-media($grid--tablet-up) {
     overflow-x: visible;
   }
@@ -92,12 +94,16 @@ body {
 
 p {
   font-family: "Rather", "Arial", sans-serif;
-  font-weight: normal;
-  font-size: 14px;
+  font-weight: 600;
+  font-size: 1.5vw;
 }
 
 a {
-  color: $red;
+  color: black;
+}
+
+a:hover {
+  text-shadow: 0px 0px 10px white;
 }
 
 .header__wrap {
@@ -183,12 +189,14 @@ a {
   padding: 20px;
   display: table-cell;
   vertical-align: middle;
+  height: 70%
 }
 
 .logo__tagline {
   @include rather-block;
   margin-top: 30px;
-  color: #fff;
+  color: black;
+  font-size: 35px;
 }
 
 /** NAV **/
@@ -200,7 +208,9 @@ a {
 }
 
 .main__nav {
-  background: $red;
+  //background: linear-gradient(to bottom, rgba(255, 255, 255, 0), greenyellow, greenyellow, greenyellow);
+  background: #bdfc4d;
+  box-shadow: 0 0 5px 5px #bdfc4d;
   display: block;
   position: fixed;
   bottom: 0; 
@@ -239,7 +249,6 @@ a {
       vertical-align: middle;
       width: 20%;
       text-align: center;
-      vertical-align: middle;
     }
 
     z-index: 150;
@@ -249,7 +258,7 @@ a {
 
 .nav__item {
   @include rather-block;
-  color: #fff;
+  color: black;
   font-size: 30px;
 
   display: block;
@@ -258,9 +267,9 @@ a {
 
   @include grid-media($grid--tablet-up) {
     display: inline;
-    font-size: 14px;  
+    font-size: 20px;
     height: auto;
-    text-transform: uppercase;
+    text-transform: none;
     padding: 4px 8px;
   }
 
@@ -272,11 +281,12 @@ a {
 
 @include grid-media($grid--tablet-up) {
   .nav__item--boxed {
-    border: 1px solid #fff;
+    border: 1px solid black;
+
     &:hover {
       text-decoration: none;
       background: #fff;
-      color: $red;
+      color: black;
     }
   }
 }
@@ -286,16 +296,15 @@ a {
 .instagram__left, .instagram__right {
   /* @LungA.Festival: */
   @include rather-semi;
-
   font-size: 30px;
-
+  display: inline;
   @include grid-media($grid--tablet-up) {
     font-size: 50px;
   }
 
   z-index: 100;
 
-  color: $red;
+  color: black;
   a {
     color: inherit;
   }
@@ -320,7 +329,11 @@ a {
 
 .home__instagram {
   position: relative;
-  height: 600px;
+  height: 100px;
+  width: 100%;
+  background: #bdfc4d;
+  box-shadow: 0 0 5px 10px #bdfc4d;
+
   .photo__container {
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
@@ -348,7 +361,8 @@ a {
 
 /** CONCERT WIDGET **/
 .home__concert {
-  background: $red;
+  background: #bdfc4d;
+  box-shadow: 0 0 5px 10px #bdfc4d;
   position: relative;
   height: 660px;
   @include grid-media($grid--tablet-up) {
@@ -362,10 +376,9 @@ a {
     position: absolute; right: 0; top: 0;
     display: inline-block;
     width: 50%;
-
-    height: 660px;
+    height: 600px;
   }
-  height: 330px;
+  height: 300px;
   position: relative;
 }
 
@@ -390,31 +403,36 @@ a {
 .concert__title, .concert__buy {
   @include rather-semi;
   text-transform: uppercase;
-  color: #FFF;
+  color: white;
   text-decoration: underline; 
-  font-size: 20px;
+  font-size: 50px;
   text-align: center;
   margin: auto;
-  padding: 20px;
   @include grid-media($grid--tablet-up) {
     padding: 100px;
-    font-size: 30px;
+    font-size: 50px;
   }
 
 }
 
 a.concert__buy {
-  display: block;
-  text-align: center;
+   display: block;
+   text-align: center;
+   text-decoration: none;
+ }
+a.concert__buy:hover {
+  text-decoration: underline;
+
 }
+
 
 .concert__date {
   @include rather-semi;
   text-transform: uppercase;
   color: #FFF;
-  font-size: 30px;
+  font-size: 50px;
   @include grid-media($grid--tablet-up) {
-    font-size: 50px;
+    font-size: 60px;
   }
 
   text-align: center;
@@ -466,18 +484,18 @@ a.concert__buy {
 
 /** WORKSHOPS **/
 .workshops_container {
+
   @include grid-container;
   max-width: 935px;
   margin: auto;
   padding: 20px;
-  
+
   @include rather-semi;
 
   h2 {
     font-size: 30px;
-    text-transform: uppercase;
     text-align: center;
-    color: $red;
+    color: black;
   }
 }
 
@@ -489,13 +507,21 @@ a.concert__buy {
 
   a {
     text-decoration: none;
-    color: $red;
+    color: black;
+  }
+  a:hover {
+    text-decoration: underline;
   }
 }
 
 .workshop__title {
   height: 2em;
   display: block;
+  color: black;
+  text-shadow:0px 0px 10px white;
+  border: solid 1px black;
+  background-color: white;
+  word-break: break-word;
 }
 
 .workshop__image {
@@ -516,15 +542,16 @@ a.concert__buy {
   overflow: hidden;
   .text {
     @include rather-block;
-    font-size: 13px;
+    font-size: 20px;
     padding: 0.4em;
     text-transform: uppercase;
     overflow: hidden;
     height: 1.1em;
     line-height: 1.5em;
     color: #000;
+    text-align: center;
     span {
-      text-decoration: underline;
+      text-decoration: none;
       padding-left: 4px;
     }
   }
@@ -563,9 +590,10 @@ a.concert__buy {
 h3 {
   @include rather-semi;
   text-align: center;
-  font-size: 30px;
+  font-size: 50px;
   margin-bottom: 20px;
-  color: $red;
+  color: black;
+  text-shadow:0px 0px 5px white;
 }
 
 /** SUBPAGE LAYOUT **/
@@ -574,32 +602,45 @@ h3 {
   margin: auto;
   padding: 20px;
   
-  h1, h2, h3, h4, h5, h6, p {
+  h1, h3, h4, h5, h6 {
     @include rather-semi;
     text-align: center;
-
+    word-break: break-word;
+    text-shadow: 0px 0px 10px white;
+    color: black;
+    border: solid 1px black;
+    background-color: white;
     @include grid-media($grid--tablet-up) {
       margin: 120px 0 55px 0;
     }
   }
 
   p {
+    @include rather-semi;
     width: 100%;
-    font-size: 20px;
-    line-height: 29px;
+    font-size: 1.5vw;
+    line-height: 1.8vw;
+    background-color: white;
     @include grid-media($grid--tablet-up) {
       width: 80%;
-      margin: 20px auto;
-      text-align: center;
+      margin: 0px auto;
+      text-align: left;
     }
   }
 
+
   img {
-    margin: 40px 0;
+    padding: 40px 0;
   }
 
   h2 {
-    font-size: 40px;
+    @include rather-semi;
+    @include grid-media($grid--tablet-up) {
+      margin: 0px 0 0px 0;
+    }
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: white;
   }
 
   h1 {
@@ -621,7 +662,7 @@ h3 {
 
 #lines {
   position: fixed;
-  z-index: -10;
+  z-index: -9999999999;
   top: 0; left: 0; right: 0; bottom: 0;
   margin:auto;
   svg {
@@ -633,8 +674,38 @@ h3 {
   }
 }
 
+#background {
+  position: fixed;
+  z-index: -999999999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  img {
+    width: 150%;
+  }
+}
+
+
 .paper {
   font-size: 2.0em;
   text-align: center;
   img {width: 80%; max-width: 400px;}
 }
+
+
+.text {
+  display: inline-block;
+  margin: 0 24.7px;
+  float: left;
+  transition: all .2s ease-out;
+}
+
+.orb:hover {
+  transform: scale(1.2);
+  opacity: .5;
+  cursor: pointer;
+}
+
+
