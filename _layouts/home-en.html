@@ -2,25 +2,20 @@
 layout: default
 ---
 
-<div class="home__cover" style="background-image: url('{{ page.cover_photo }}')">
+<div class="home__cover">
   <div class="home__logo">
-    <img src="/assets/img/logo-white.svg" alt="LungA 2018 logo" />
-    <p class="logo__tagline">ART FESTIVAL — SEYÐISFJÖRÐUR — 15&nbsp;–&nbsp;22&nbsp;JULY&nbsp;2018</p>
+    <img src="/assets/img/logo-black.svg" alt="LungA 2019 logo" style="width:65%;">
+    <p class="logo__tagline" style="text-shadow:0px 0px 5px white;">ART FESTIVAL&emsp;SEYÐISFJÖRÐUR&emsp;15&mdash;22&nbsp;JULY&nbsp;2019</p>
   </div>
 </div>
 
 {% include navigation.html %}
 
 <section class="home__concert">
-  <div class="frame__text" data-content="Concert">
-    
-    <div class="frame__text--bottom text"></div>
-    <div class="frame__text--top text"></div>
-  </div>
   <div class="concert__dates">
-    <h3 class="concert__title">CONCERT</h3>
-    <h3 class="concert__date">20 - 21 july</h3>
-    <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/">Buy tickets</a>
+    <h3 class="concert__title">Concert</h3>
+    <h3 class="concert__date">20.&mdash;21. july</h3>
+    <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/" target="_blank">Buy tickets</a>
   </div>
   <div class="concert__widget image__widget">
     <div class="arrow--left">
@@ -36,30 +31,19 @@ layout: default
 
     <div class="images__container">
       {% for image in page.concert_images %}
-        <img src="{{ image }}" class="photo" alt="Concert image" />
+      <img src="{{ image }}" class="photo" alt="Concert image" />
       {% endfor %}
     </div>
   </div>
 </section>
 
-<section class="home__instagram image__widget">
-  <h3 class="instagram__left"><a href="https://www.instagram.com/lunga.festival/">@LungA.Festival</a></h3>
-        {% for image in page.instagram_images %}
-        <div class="photo__container">
-          <img src="{{ image }}" class="photo" alt="Instagram images" />
-        </div>
-      {% endfor %}
-  <h3 class="instagram__right"><a href="https://www.instagram.com/tags/lunga">#Lunga2018</a></h3>
-</section>
 
 {% include workshops_title.html %}
 
 {% include events_title.html %}
 
-<section class="workshops_container paper">
-  {% if page.lang == "en" %}
-    <a href="https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_en" target="_blank"><br>LungA paper<br><br><img src="/assets/img/paper.png"></a>
-  {% else %}
-    <a href="https://issuu.com/lunga.festival/docs/lunga_bla_i__issuu_isl" target="_blank"><br>LungA blaðið<br><br><img src="/assets/img/paper.png"></a>
-  {% endif %}
+
+
+<section class="home__instagram image__widget">
+<h3><a href="https://www.instagram.com/lunga.festival/" target="_blank">@LungA.Festival</a> &emsp; <a href="https://www.instagram.com/tags/lunga" target="_blank">#Lunga2018</a></h3>
 </section>
