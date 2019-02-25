@@ -1,30 +1,26 @@
 <section class="home__concert">
-  <div class="frame__text" data-content="Tónleikar">
-    
-    <div class="frame__text--bottom text"></div>
-    <div class="frame__text--top text"></div>
-  </div>
-  <div class="concert__dates">
-    <h3 class="concert__title">Tónleikar</h3>
-    <h3 class="concert__date">20. - 21. júlí</h3>
-    <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/">Kaupa miða</a>
-  </div>
-  <div class="concert__widget image__widget">
-    <div class="arrow--left">
-      <a href="#">
-        <img src="/assets/img/arrow.svg" alt="arrow left" />
-      </a>
-    </div>
-    <div class="arrow--right">
-      <a href="#">
-        <img src="/assets/img/arrow.svg" alt="arrow right" />
-      </a>
-    </div>
 
-    <div class="images__container">
-      {% for image in page.concert_images %}
-        <img src="{{ image }}" class="photo" alt="Concert image" />
-      {% endfor %}
+    <div class="concert__dates">
+        <h3 class="concert__title">Tónleikar</h3>
+        <h3 class="concert__date">20.&mdash;21. júlí</h3>
+        <a class="concert__buy" href="https://www.tix.is/is/event/5706/lunga-2018/" target="_blank">Kaupa miða</a>
     </div>
-  </div>
+    <div class="concert__widget image__widget">
+        <div class="arrow--left">
+            <a href="#">
+                <img src="/assets/img/arrow.svg" alt="arrow left"/>
+            </a>
+        </div>
+        <div class="arrow--right">
+            <a href="#">
+                <img src="/assets/img/arrow.svg" alt="arrow right"/>
+            </a>
+        </div>
+
+        <div class="images__container">
+            {% for image in page.concert_images %}
+            <img src="{{ image }}" class="photo" alt="Concert image"/>
+            {% endfor %}
+        </div>
+    </div>
 </section>

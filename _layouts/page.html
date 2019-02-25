@@ -16,11 +16,12 @@ layout: default
     }
     {% endif %}
   </style>
-  <h1 id="page_title">{{ page.title }}</h1>
 
   {% if page.cover_photo %}
   <img src="{{ page.cover_photo }}" />
   {% endif %}
+
+  <h1 id="page_title">{{ page.title }}</h1>
 
   <div id="main_text_content">
     {{ content }}

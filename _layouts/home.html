@@ -2,27 +2,31 @@
 layout: default
 ---
 
-<div class="home__cover" style="background-image: url('{{ page.cover_photo }}')">
+<div class="home__cover" style="background-image: none">
   <div class="home__logo">
-    <img src="/assets/img/logo-white.svg" alt="LungA 2019 logo" />
-    <p class="logo__tagline">LISTAHÁTÍÐ — SEYÐISFJÖRÐUR — 15.&nbsp;–&nbsp;22.&nbsp;JÚLÍ&nbsp;2019</p>
+    <img src="/assets/img/logo-black.svg" alt="LungA 2019 logo" style="width:65%;">
+    <p class="logo__tagline" style="text-shadow:0px 0px 5px white;">LISTAHÁTÍÐ&emsp;SEYÐISFJÖRÐUR&emsp;15.&mdash;22.&nbsp;JÚLÍ&nbsp;2019</p>
   </div>
 </div>
 
+
 {% include navigation.html %}
+
 
 {% for section in page.sections %}
 
   {% if section == "concert" %}
     {% include concert.html %}
+
   {% elsif section == "instagram" %}
     {% include instagram.html %}
+
   {% elsif section == "workshops" %}
     {% include workshops_title.html %}
   {% elsif section == "paper" %}
-    {% include paper.html %}  
+    {% include paper.html %}
   {% elsif section == "events" %}
-    {% include events_title.html %}  
+    {% include events_title.html %}
   {% endif %}
 
 {% endfor %}
