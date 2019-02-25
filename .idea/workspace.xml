@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e24d56e-ef65-45fe-b455-509028e0a908" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/globe-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/globe-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/random/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/random/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/random/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo-black.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/concert.html" afterPath="$PROJECT_DIR$/_includes/concert.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/events.html" afterPath="$PROJECT_DIR$/_includes/events.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/instagram.html" afterPath="$PROJECT_DIR$/_includes/instagram.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/lines.html" afterPath="$PROJECT_DIR$/_includes/lines.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/navigation.html" afterPath="$PROJECT_DIR$/_includes/navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/paper.html" afterPath="$PROJECT_DIR$/_includes/paper.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home-en.html" afterPath="$PROJECT_DIR$/_layouts/home-en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/logo-white.svg" afterPath="$PROJECT_DIR$/assets/img/logo-white.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/dagskra.md" afterPath="$PROJECT_DIR$/pages/dagskra.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/hafa-samband.md" afterPath="$PROJECT_DIR$/pages/hafa-samband.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workshops/anna-grace.md" afterPath="$PROJECT_DIR$/workshops/anna-grace.md" />
-    </list>
+    <list default="true" id="0e24d56e-ef65-45fe-b455-509028e0a908" name="Default" comment="" />
     <ignored path="lunga.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -514,18 +488,18 @@
       <workItem from="1549878298112" duration="166000" />
       <workItem from="1550747553918" duration="12915000" />
       <workItem from="1550869944862" duration="12000" />
-      <workItem from="1551124972023" duration="3000" />
+      <workItem from="1551124972023" duration="91000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34363000" />
+    <option name="totallyTimeSpent" value="34451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
