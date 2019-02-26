@@ -11,30 +11,30 @@ Umsóknir fyrir þátttöku í listasmiðjum. Sjá nánar um listjasmiðjur [hé
 
 **Umsóknaform Sjálfboðaliðar **
 
-Umsóknafrestur 15 maí 2018. 
+Umsóknafrestur 15 maí 2019. 
 
-Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019. [Hér](https://podio.com/webforms/20703886/1425536) má sækja um. <br><br>
+Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2020. [Hér](https://podio.com/webforms/20703886/1425536) má sækja um. <br><br>
 
 **Umsóknarform fyrir tónlistarfólk**
 
-Umsóknafrestur 15. Mars 2018. 
+Umsóknafrestur 15. Mars 2019. 
 
-Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019.  [Hér](https://podio.com/webforms/20769252/1427418) má sækja um.<br><br>
+Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2020.  [Hér](https://podio.com/webforms/20769252/1427418) má sækja um.<br><br>
 
 **Umsóknarform fyrir listasýningar og aðra viðburði. **
 
-**Umsóknafrestur 15. April 2018. **
+Umsóknafrestur 15. April 2019. 
 
-Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019. [Hér](https://podio.com/webforms/20769251/1427416) má sækja um. <br><br>
+Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2020. [Hér](https://podio.com/webforms/20769251/1427416) má sækja um. <br><br>
 
 **Umsóknaform fyrir listasmiðjukennara**
 
-Umsóknafrestur 15. Mars. 
+Umsóknafrestur 15. Mars 2019. 
 
-Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019. [Hér](https://podio.com/webforms/20769289/1427422) má sækja um. <br><br>
+Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2020. [Hér](https://podio.com/webforms/20769289/1427422) má sækja um. <br><br>
 
 **Umsóknaform fyrir fyrirlesara**
 
-Umsóknafrestur 15 maí 2018. 
+Umsóknafrestur 15 maí 2019. 
 
-Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2019.[ Hér](https://podio.com/webforms/20769301/1427427) má sækja um.
+Umsóknir sem berast eftir þá dagsetningu verða teknar til greina fyrir 2020.[ Hér](https://podio.com/webforms/20769301/1427427) má sækja um.
