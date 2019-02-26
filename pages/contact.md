@@ -21,13 +21,6 @@ Björt Sigfinnsdóttir<br>
 
 bjort(at)lunga.is
 
-## Financial director
-
-Sigfinnur Mikaelsson<br>
-(+354) 8617789<br>
-
-lunga(at)lunga.is
-
 ## Workshops
 
 Sesselja Hlín Jónasardóttir<br>
