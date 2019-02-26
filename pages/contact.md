@@ -14,7 +14,6 @@ Hafnargata 44<br>
 Kt. 600201-2120<br>
 lunga(at)lunga.is<br>
 
-
 ## Director
 
 Björt Sigfinnsdóttir<br>
@@ -24,10 +23,10 @@ bjort(at)lunga.is
 
 ## Financial director
 
-Aðalheiður Lóa Borgþórsdóttir<br>
+Sigfinnur Mikaelsson<br>
 (+354) 8617789<br>
 
-alla(at)lunga.is
+lunga(at)lunga.is
 
 ## Workshops
 
@@ -38,17 +37,16 @@ sesselja(at)lunga.is
 
 ## Concerts
 
-Rögnvaldur Skúli Árnason<br>
-(+354) 8955888<br>
+Hilmar Guðjónsson<br>(+354) 8955888<br>
 
-skuli(at)lunga.is
+hilmar(at)lunga.is
 
 ## Exhibitions, talks and other events
 
-Hilmar Guðjónsson<br>
-(+354) 8453527<br>
+Þórhildur Tinna Sigurðardóttir<br>
+(+354) 8486962<br>
 
-hilmar(at)lunga.is
+tinna(at)lunga.is
 
 ## Volunteers
 
@@ -59,10 +57,10 @@ lama(at)lunga.is
 
 ## Production
 
-Celia Harrison<br>
-(+354)6268952<br>
+Sesselja Hlín Jónasardóttir<br>
+(+354)7702444<br>
 
-celia(at)lunga.is
+sesselja(at)lunga.is
 
 ## Youth exchange program
 
@@ -98,10 +96,8 @@ lasse(at)lunga.is
 
 ## Graphic design
 
-Studio Holt<br>
-[www.studioholt.is](http://www.studioholt.is)
-
-## Homepage programming
+Gréta Þorkelsdóttir<br>
+[www.gretathorkels.net](http://www.gretathorkels.net/)
 
 Halldór Eldjárn<br>
 [www.hdor.is](http://hdor.is)
