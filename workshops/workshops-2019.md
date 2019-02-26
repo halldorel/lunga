@@ -18,7 +18,7 @@ body_is: >-
 cover_photo: /img/uploads/enter-the-dream.jpg
 type: workshop
 ---
-The workshops for LungA 2019 will be announced on the 30th of April and will open for sign ups on the 1st of May!
+The workshops for LungA 2019 will be announced on the 30th of April and will open for sign ups 1st of May!
 
 Follow us on [fb](https://www.facebook.com/lunga.festival/) and [instagram](https://www.instagram.com/lunga.festival/)!
 
