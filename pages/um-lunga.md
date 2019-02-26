@@ -15,15 +15,15 @@ LungA „fjölskyldan“ samanstendur nú bæði af árlegri listahátíð og sk
 
 ## UNGMENNASKIPTI – ERASMUS+
 
-Við byrjum hátíðina þetta árið á LungA Lab 13.júlí 2018.
-Þetta er annað árið þar sem þessi nýji angi hátíðarinnar í bland við ungmennaskiptiverkefnið á sér stað undir nafninu LungA Lab og langar okkur að bjóða almenningi að taka þátt í samtalinu. Við bjóðum uppá fjölda stórkostlega fyrirlestra og á þann hátt náum við vonandi að opna umræðuna um “kyn” enn frekar.
+Við byrjum hátíðina þetta árið á LungA Lab 12.júlí 2019.
+Þetta er þriðja árið þar sem þessi nýji angi hátíðarinnar í bland við ungmennaskiptiverkefnið á sér stað undir nafninu LungA Lab og langar okkur að bjóða almenningi að taka þátt í samtalinu. Við bjóðum uppá fjölda stórkostlega fyrirlestra og á þann hátt náum við vonandi að opna umræðuna um “Framtíðarsýn” enn frekar.
 
-Þetta árið koma hópar frá Danmörk, England, Svíþjóð og Íslandi.
-Við ætlum að ræða um kyn, ekki út frá neinum fyrirfram ákveðnum skoðunum, heldur út frá öllum þeim mismunandi sjónarhornum sem upp koma þessa daga. Umræðan er byggð í kringum vinnu í minni hópum, pallborðsumræðum, mismunandi æfingum og allskonar skemmtilegum innslögum.
+Þetta árið koma hópar frá Danmörk, Englandi, Svíþjóð og Íslandi.
+Við ætlum að ræða um framtíðarsýn, ekki út frá neinum fyrirfram ákveðnum skoðunum, heldur út frá öllum þeim mismunandi sjónarhornum sem upp koma þessa daga. Umræðan er byggð í kringum vinnu í minni hópum, pallborðsumræðum, mismunandi æfingum og allskonar skemmtilegum innslögum.
 
 ## Þema
 
-Þema LungA 2018 er KYN
+Þema LungA 2019 er FRAMTÍÐARSÝN
 
 Við vonumst til þess að sjá ykkur sem flest á LungA í ár.
 
