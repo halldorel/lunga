@@ -5,7 +5,7 @@ permalink: /hafa-samband
 lang: íslenska
 cover_photo: /img/uploads/tumblr_oaf8he6lug1vzefu3o1_1280.jpg
 tail_photo: /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
-heading_color: 'black'
+heading_color: black
 ---
 ## LungA hátíð
 
@@ -20,12 +20,6 @@ Björt Sigfinnsdóttir<br>
 (+45)28993633<br>
 bjort(at)lunga.is<br><br>
 
-## Fjármálastýra
-
-Aðalheiður Lóa Borgþórsdóttir<br>
-8617789<br>
-alla(at)lunga.is<br><br>
-
 ## Listasmiðjur
 
 Sesselja Hlín Jónasardóttir<br>
@@ -34,15 +28,13 @@ sesselja(at)lunga.is<br><br>
 
 ## Tónlist
 
-Rögnvaldur Skúli Árnason<br>
-8955888<br>
-skuli(at)lunga.is<br><br>
+Hilmar Guðjónsson<br>8453527<br>hilmar(at)lunga.is<br><br>
 
 ## Sýningar, fyrirlestrar og aðrir viðburðir
 
-Hilmar Guðjónsson<br>
-8453527<br>
-hilmar(at)lunga.is<br><br>
+Þórhildur Tinna Sigurðardóttir<br>
+8486962<br>
+tinna(at)lunga.is<br><br>
 
 ## Sjálfboðaliðar
 
@@ -52,9 +44,9 @@ lama(at)lunga.is<br><br>
 
 ## Verkstjórn
 
-Celia Harrison<br>
-6268952<br>
-celia(at)lunga.is<br><br>
+Sesselja Hlín Jónasardóttir<br>
+7702444<br>
+sesselja(at)lunga.is<br><br>
 
 ## Ungmenna skipti
 
@@ -87,8 +79,8 @@ lasse(at)lunga.is<br><br>
 
 ## Grafísk hönnun
 
-Studio Holt<br>
-[www.studioholt.is](http://www.studioholt.is)<br><br>
+Gréta Þorkelsdóttir<br>
+[www.gretathorkels.net](http://www.gretathorkels.net/)<br><br>
 
 ## Forritun
 
