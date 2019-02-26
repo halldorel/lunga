@@ -621,10 +621,13 @@ h3 {
     font-size: 1.5vw;
     line-height: 1.8vw;
     background-color: white;
+    margin-bottom: 20px;
     @include grid-media($grid--tablet-up) {
       width: 80%;
       margin: 0px auto;
       text-align: left;
+      margin-bottom: 20px;
+
     }
   }
 
