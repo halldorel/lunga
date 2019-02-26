@@ -19,7 +19,7 @@ Over the last decade we have offered a youth exchange program in collaboration w
 
 ## The Theme
 
-This year’s theme is GENDER. The Youth Exchange groups will participate from the Kaospilot school in Denmark, University of Brighton in England, Hyper Island in Sweden and the Reykjavik School of Visual Arts in Iceland. We’re going to attempt to discuss gender away from any pre-conditioned beliefs. Rather we’re going to take a deep look into gender from all of the contemporary vantage points that have come to the surface recently. The discourse is based upon the collaboration of smaller groups, which includes panel discussions, exercises and a variety of lively inputs. 
+This year’s theme is FUTURE PERSPECTIVES. The Youth Exchange groups will participate from the Kaospilot school in Denmark, University of Brighton in England, Hyper Island in Sweden and the Reykjavik School of Visual Arts in Iceland. We’re going to attempt to discuss future perspectives away from any pre-conditioned beliefs. Rather we’re going to take a deep look into future perspectives from all of the contemporary vantage points that have come to the surface recently. The discourse is based upon the collaboration of smaller groups, which includes panel discussions, exercises and a variety of lively inputs. 
 
 We hope to see as many of you as possible at LungA this year.
 
