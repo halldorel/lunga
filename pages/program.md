@@ -21,9 +21,11 @@ Our full program will be out soon.
 
 # Concert
 
-  
+This year’s concert is going to be exquisite, having a versatile line up that contains everything from high-quality pop, electronic soul to dark-wave/synth-punk.
 
-Here you can see which artists will be performing at this year’s LungA concert on the 19th and 20th of July 2019  \  Buy tickets x !
+
+
+Here you can see which artists will be performing at this year’s LungA concert on the 19th and 20th of July \ Buy tickets here!
 
 # Workshops
 
