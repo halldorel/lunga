@@ -21,9 +21,9 @@ Full dagskrá hátíðarinnar kemur út fljótlega.
 
 ## Tónleikar
 
+Tónleikarnir verða veglegir í ár og spanna allt frá hágæða poppi, electronic soul  og dark-wave/synth pönki.
 
-
-Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár dagana 19. & 20. júlí.
+Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar í ár dagana 19. & 20. júlí. \ Kaupa miða.
 
 ## Listasmiðjur
 
