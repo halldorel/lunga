@@ -11,7 +11,7 @@ body_is: >-
   [instagram](https://www.instagram.com/lunga.festival/)!
 
 
-  Ást 
+  Ást og friður
 
 
   LungA
@@ -22,6 +22,8 @@ The workshops for LungA 2019 will be announced on the 30th of April and will ope
 
 Follow us on [fb](https://www.facebook.com/lunga.festival/) and [instagram](https://www.instagram.com/lunga.festival/)!
 
-Love
+Love and peace
 
 LungA
+
+
