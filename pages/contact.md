@@ -92,5 +92,10 @@ lasse(at)lunga.is
 Gréta Þorkelsdóttir<br>
 [www.gretathorkels.net](http://www.gretathorkels.net/)
 
+## Programming
+ 
 Halldór Eldjárn<br>
 [www.hdor.is](http://hdor.is)
+
+Gréta Þorkelsdóttir<br>
+[www.gretathorkels.net](http://www.gretathorkels.net/)
