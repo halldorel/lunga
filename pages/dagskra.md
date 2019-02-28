@@ -5,7 +5,7 @@ permalink: dagskra
 lang: is
 cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
-heading_color: black
+heading_color: '#000000'
 ---
 ## Hátíðardagskrá LungA, talks og aðrir viðburðir
 

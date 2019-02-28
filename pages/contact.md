@@ -5,7 +5,7 @@ permalink: /en/contact
 lang: en
 cover_photo: /img/uploads/tumblr_oaf8he6lug1vzefu3o1_1280.jpg
 tail_photo: /img/uploads/tumblr_p6lpkfny8i1v4z6y8o2_1280.jpg
-heading_color: '#E6A931'
+heading_color: '#000000'
 ---
 ## LungA Festival
 

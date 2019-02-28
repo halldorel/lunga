@@ -5,7 +5,7 @@ permalink: /um-lunga
 lang: íslenska
 cover_photo: /img/uploads/tumblr_otlqer87jn1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/5i7a6947-1-1.jpg
-heading_color: '#DE7464'
+heading_color: '#000000'
 ---
 Árið 2000 leit listahátíð LungA dagsins ljós í fyrsta sinn. Um er að ræða listahátíð þar sem sköpun, listum og menningu er fagnað með námskeiðum, fyrirlestrum og öðrum viðburðum og lýkur með uppskeruhelgi: sýningum og tónleikum.
 
