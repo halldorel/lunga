@@ -360,8 +360,6 @@ a:hover {
 
 /** CONCERT WIDGET **/
 .home__concert {
-  /*background: #bdfc4d;*/
-  /*box-shadow: 0 0 5px 10px #bdfc4d;*/
   position: relative;
   height: 660px;
   @include grid-media($grid--tablet-up) {
