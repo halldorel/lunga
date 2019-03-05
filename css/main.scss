@@ -296,10 +296,10 @@ a:hover {
 .instagram__left, .instagram__right {
   /* @LungA.Festival: */
   @include rather-semi;
-  font-size: 30px;
+  font-size: 20px;
   display: inline;
   @include grid-media($grid--tablet-up) {
-    font-size: 50px;
+    font-size: 20px;
   }
 
   z-index: 100;
@@ -331,8 +331,7 @@ a:hover {
   position: relative;
   height: 100px;
   width: 100%;
-  background: #bdfc4d;
-  box-shadow: 0 0 5px 10px #bdfc4d;
+
 
   .photo__container {
     position: absolute;
@@ -361,8 +360,8 @@ a:hover {
 
 /** CONCERT WIDGET **/
 .home__concert {
-  background: #bdfc4d;
-  box-shadow: 0 0 5px 10px #bdfc4d;
+  /*background: #bdfc4d;*/
+  /*box-shadow: 0 0 5px 10px #bdfc4d;*/
   position: relative;
   height: 660px;
   @include grid-media($grid--tablet-up) {
@@ -403,7 +402,7 @@ a:hover {
 .concert__title, .concert__buy {
   @include rather-semi;
   text-transform: uppercase;
-  color: white;
+  color: black;
   text-decoration: underline; 
   font-size: 50px;
   text-align: center;
@@ -429,7 +428,7 @@ a.concert__buy:hover {
 .concert__date {
   @include rather-semi;
   text-transform: uppercase;
-  color: #FFF;
+  color: black;
   font-size: 50px;
   @include grid-media($grid--tablet-up) {
     font-size: 60px;
@@ -604,6 +603,7 @@ h3 {
   
   h1, h3, h4, h5, h6 {
     @include rather-semi;
+    font-family: "Rather", "Arial", sans-serif;
     text-align: center;
     word-break: break-word;
     text-shadow: 0px 0px 10px white;
@@ -617,6 +617,7 @@ h3 {
 
   p {
     @include rather-semi;
+    font-family: "Rather", "Arial", sans-serif;
     width: 100%;
     font-size: 1.5vw;
     line-height: 1.8vw;
