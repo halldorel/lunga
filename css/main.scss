@@ -101,9 +101,7 @@ p {
 a {
   color: black;
 }
-
 a:hover {
-  text-shadow: 0px 0px 10px white;
 }
 
 .header__wrap {
@@ -111,6 +109,7 @@ a:hover {
   position: fixed; 
   top: 0; left: 0; right: 0;
   background: #fff;
+  box-shadow: 0 0 5px 5px white;
 }
 
 .header__link--left, .header__link--right {
@@ -209,8 +208,8 @@ a:hover {
 
 .main__nav {
   //background: linear-gradient(to bottom, rgba(255, 255, 255, 0), greenyellow, greenyellow, greenyellow);
-  background: #bdfc4d;
-  box-shadow: 0 0 5px 5px #bdfc4d;
+  background: white;
+  box-shadow: 0 0 5px 5px white;
   display: block;
   position: fixed;
   bottom: 0; 
@@ -285,7 +284,7 @@ a:hover {
 
     &:hover {
       text-decoration: none;
-      background: #fff;
+      background: #6d35d8;
       color: black;
     }
   }
@@ -439,6 +438,7 @@ a.concert__buy:hover {
   display: table-cell;
   width: 50%;
   z-index: 3;
+
 }
 
 .arrow--left {
@@ -463,6 +463,7 @@ a.concert__buy:hover {
   width: 50%;
   height: 80%;
   display: block;
+
 }
 
 .images__container img {
@@ -473,6 +474,9 @@ a.concert__buy:hover {
   top: 0; left: 25%; right: 25%; bottom: 0;
   z-index: 2;
   opacity: 0;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
 }
 
 .visible {
@@ -590,7 +594,6 @@ h3 {
   font-size: 50px;
   margin-bottom: 20px;
   color: black;
-  text-shadow:0px 0px 5px white;
 }
 
 /** SUBPAGE LAYOUT **/
@@ -604,7 +607,6 @@ h3 {
     font-family: "Rather", "Arial", sans-serif;
     text-align: center;
     word-break: break-word;
-    text-shadow: 0px 0px 10px white;
     color: black;
     border: solid 1px black;
     background-color: white;
