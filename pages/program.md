@@ -7,7 +7,7 @@ cover_photo: /img/uploads/tumblr_otlqrz8olc1vaprzlo1_1280.jpg
 tail_photo: /img/uploads/tumblr_ote3uxi3ph1vaprzlo1_1280.jpg
 heading_color: '#000000'
 ---
-# LungA festival program, talks and other events
+## LungA festival program, talks and other events
 
 LungA offers you a range of high-end international events across the week and it’s all free of charge, apart from the ticketed LungA concert during the weekend. 
 
@@ -19,7 +19,7 @@ Our full program will be out soon.
 
 ![null](/img/uploads/tumblr_otlq9kunnl1vaprzlo1_1280.jpg)
 
-# Concert
+## Concert
 
 This year’s concert is going to be exquisite, having a versatile line up that contains everything from high-quality pop, electronic soul to dark-wave/synth-punk.
 
@@ -27,7 +27,7 @@ This year’s concert is going to be exquisite, having a versatile line up that 
 
 Here you can see which artists will be performing at this year’s LungA concert on the 19th and 20th of July \ Buy tickets here!
 
-# Workshops
+## Work<wbr>shops
 
 There will be 8 workshops at LungA festival 2019.
 
@@ -43,7 +43,7 @@ Sign up for the workshops - 1st of May 2019
 
 ![null](/img/uploads/lunga-1-64.jpg)
 
-# LungA LAB
+## LungA LAB
 
 is what we call our informative experimental laboratory. Each year we choose a theme, this year it is "future perspectives" and then we dig into that theme from many different perspectives, through workshop work, talks, various performances, movie screening, panel discussions and so on. 
 
