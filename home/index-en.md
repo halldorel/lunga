@@ -1,6 +1,6 @@
 ---
 layout: home-en
-title: Concert
+title: Lunga 2019
 lang: en
 permalink: /en
 cover_photo: /img/uploads/lunga_web_cover_4.png
