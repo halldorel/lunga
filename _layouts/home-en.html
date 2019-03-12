@@ -4,7 +4,7 @@ layout: default
 
 <div class="home__cover">
   <div class="home__logo">
-    <img src="/assets/img/logo-green.svg" alt="LungA 2019 logo" style="width:65%;">
+    <img src="/assets/img/logo-green.svg" alt="LungA 2019 logo" style="width:60%;">
     <p class="logo__tagline" style="text-shadow:0px 0px 5px white;">ART FESTIVAL&emsp;SEYÐISFJÖRÐUR&emsp;14&mdash;21&nbsp;JULY&nbsp;2019</p>
   </div>
 </div>
@@ -44,9 +44,9 @@ layout: default
   </div>
 </section>
 
-
+<div>
 {% include workshops_title.html %}
-
+</div>
 {% include events_title.html %}
 
 
@@ -56,3 +56,44 @@ layout: default
     instagram:<br>
     <a href="https://www.instagram.com/lunga.festival/" target="_blank" style="font-size:20px;">@LungA.Festival</a> &emsp; <a href="https://www.instagram.com/tags/lunga" target="_blank">#Lunga2018</a></p>
 </section>
+
+
+
+<div id="page_Wrapper" style="pointer-events:none;">
+  <img src="../assets/flash/art.svg" class="movingImg" id="image" style="position:fixed;max-width:500px;"/>
+</div>
+
+
+
+<script type="text/javascript">
+  window.onLoad = Prep();
+  function Prep() {
+    window_Height = window.innerHeight;
+    window_Width = window.innerWidth;
+
+    image_Element = document.getElementById("image");
+    image_Height = image_Element.clientHeight;
+    image_Width = image_Element.clientWidth;
+
+    availSpace_V = window_Height - image_Height;
+    availSpace_H = window_Width - image_Width;
+
+    var changeInterval = 2000; // Time has to be in miliseconds. So, 3000 is 3 seconds
+    setInterval(moveImage, changeInterval);
+  }
+  function moveImage() {
+    var randNum_V = Math.round(Math.random() * availSpace_V);
+    var randNum_H = Math.round(Math.random() * availSpace_H);
+
+    image_Element.style.top = randNum_V + "px";
+    image_Element.style.left = randNum_H + "px";
+
+    // ADD PHOTOS: HERE YOU CHANGE THE PICTURES ? ADD THIS: , "img/random/filename.jpg" TO TO THE END OF THE SEQUENCE
+    var myndir = ["../assets/flash/talks.svg","../assets/flash/events.svg", "../assets/flash/fun.svg","../assets/flash/art.svg", "../assets/flash/shows.svg", "../assets/flash/workshops.svg", "../assets/flash/concerts.svg"];
+    var rand = myndir[Math.floor(Math.random() * myndir.length)];
+
+    var im = document.getElementById("image");
+    im.setAttribute("src", rand);
+
+  }
+</script>

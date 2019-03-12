@@ -2,31 +2,66 @@
 layout: default
 ---
 
+
+
 <div class="home__cover" style="background-image: none">
   <div class="home__logo">
-    <img src="/assets/img/logo-green.svg" alt="LungA 2019 logo" style="width:65%;">
+    <img src="/assets/img/logo-green.svg" alt="LungA 2019 logo" style="width:60%;">
     <p class="logo__tagline" style="text-shadow:0px 0px 5px white;">LISTAHÁTÍÐ&emsp;SEYÐISFJÖRÐUR&emsp;14.&mdash;21.&nbsp;JÚLÍ&nbsp;2019</p>
   </div>
 </div>
 
 
 {% include navigation.html %}
-
-
 {% for section in page.sections %}
-
-  {% if section == "concert" %}
-    {% include concert.html %}
-
-  {% elsif section == "instagram" %}
-    {% include instagram.html %}
-
-  {% elsif section == "workshops" %}
-    {% include workshops_title.html %}
-  {% elsif section == "paper" %}
-    {% include paper.html %}
-  {% elsif section == "events" %}
-    {% include events_title.html %}
-  {% endif %}
-
+{% if section == "concert" %}
+{% include concert.html %}
+{% elsif section == "instagram" %}
+{% include instagram.html %}
+{% elsif section == "workshops" %}
+{% include workshops_title.html %}
+{% elsif section == "paper" %}
+{% include paper.html %}
+{% elsif section == "events" %}
+{% include events_title.html %}
+{% endif %}
 {% endfor %}
+
+
+<div id="page_Wrapper">
+  <img src="../assets/flash/list.svg" class="movingImg" id="image" style="position:fixed;max-width:500px;"/>
+</div>
+
+
+<script type="text/javascript">
+  window.onLoad = Prep();
+  function Prep() {
+    window_Height = window.innerHeight;
+    window_Width = window.innerWidth;
+
+    image_Element = document.getElementById("image");
+    image_Height = image_Element.clientHeight;
+    image_Width = image_Element.clientWidth;
+
+    availSpace_V = window_Height - image_Height;
+    availSpace_H = window_Width - image_Width;
+
+    var changeInterval = 2000; // Time has to be in miliseconds. So, 3000 is 3 seconds
+    setInterval(moveImage, changeInterval);
+  }
+  function moveImage() {
+    var randNum_V = Math.round(Math.random() * availSpace_V);
+    var randNum_H = Math.round(Math.random() * availSpace_H);
+
+    image_Element.style.top = randNum_V + "px";
+    image_Element.style.left = randNum_H + "px";
+
+    // ADD PHOTOS: HERE YOU CHANGE THE PICTURES ? ADD THIS: , "img/random/filename.jpg" TO TO THE END OF THE SEQUENCE
+    var myndir = ["../assets/flash/fyrirlestrar.svg","../assets/flash/vidburdir.svg", "../assets/flash/gaman.svg","../assets/flash/list.svg", "../assets/flash/syningar.svg", "../assets/flash/listasmidjur.svg", "../assets/flash/tonleikar.svg"];
+    var rand = myndir[Math.floor(Math.random() * myndir.length)];
+
+    var im = document.getElementById("image");
+    im.setAttribute("src", rand);
+
+  }
+</script>

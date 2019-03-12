@@ -109,7 +109,7 @@ a:hover {
   position: fixed; 
   top: 0; left: 0; right: 0;
   background: #fff;
-  box-shadow: 0 0 5px 5px white;
+  border-bottom: solid 1px black;
 }
 
 .header__link--left, .header__link--right {
@@ -209,7 +209,7 @@ a:hover {
 .main__nav {
   //background: linear-gradient(to bottom, rgba(255, 255, 255, 0), greenyellow, greenyellow, greenyellow);
   background: white;
-  box-shadow: 0 0 5px 5px white;
+  border-top: solid 1px black;
   display: block;
   position: fixed;
   bottom: 0; 
@@ -285,7 +285,7 @@ a:hover {
     &:hover {
       text-decoration: none;
       background: #6d35d8;
-      color: black;
+      color: white;
     }
   }
 }
