@@ -27,15 +27,15 @@ Hér má sjá þá listamenn sem koma fram á tónleikum LungA hátíðarinnar �
 
 ## Listasmiðjur
 
-Listasmiðjur LungA 2019 eru 8 talsins.
+Listasmiðjur LungA 2019 eru 9 talsins.
 
-7 vikulangar listasmiðjur
+8 vikulangar listasmiðjur
 
  1 föstudag listasmiðja
 
-Gjald fyrir viku námskeið er 45.000kr og innifalið í því verði er þátttaka í listasmiðju, gisting í svefnpoka plássi, fullt fæði og aðgangur að öllum viðburðum hátíðarinnar. Það er einnig möguleiki að skrá sig á LungA tjaldsvæði eða þitt eigið húsnæði.
+Gjald fyrir viku námskeið er 48.000kr og innifalið í því verði er þátttaka í listasmiðju, gisting í svefnpoka plássi, fullt fæði og aðgangur að öllum viðburðum hátíðarinnar. Það er einnig möguleiki að skrá sig á LungA tjaldsvæði eða þitt eigið húsnæði.
 
-Gjald fyrir Föstudagsnámskeið er 15.000kr og innifalið í því verði er þátttaka í listasmiðjuna, gisting, fæði á meðan námskeiðinu stendur og aðgangur að öllum viðburðum hátíðarinnar.
+Gjald fyrir Föstudagsnámskeið er 20.000kr og innifalið í því verði er þátttaka í listasmiðjuna, gisting, fæði á meðan námskeiðinu stendur og aðgangur að öllum viðburðum hátíðarinnar.
 
 Skráning í listasmiðjur - Hefst 1. maí.
 
