@@ -23,21 +23,19 @@ Our full program will be out soon.
 
 This year’s concert is going to be exquisite, having a versatile line up that contains everything from high-quality pop, electronic soul to dark-wave/synth-punk.
 
-
-
 Here you can see which artists will be performing at this year’s LungA concert on the 19th and 20th of July \ Buy tickets here!
 
 ## Work<wbr>shops
 
-There will be 8 workshops at LungA festival 2019.
+There will be 9 workshops at LungA festival 2019.
 
-7 x Week-long Workshops 
+8 x Week-long Workshops 
 
 1 x Friday Workshop
 
-The price for the week-long workshop is 45.000 ISK. That includes participation in a workshop, dormitory-style accommodation, three meals a day and access to all of the festival’s events. There is also an option to arrange your own accommodation or camping.
+The price for the week-long workshop is 48.000 ISK. That includes participation in a workshop, dormitory-style accommodation, three meals a day and access to all of the festival’s events. There is also an option to arrange your own accommodation or camping.
 
-The price for the Friday workshop is 15.000 ISK and it includes participation in the Friday workshop, dormitory-style accommodation from Thursday - Sunday and meals for the period of the workshop and access to all of the festival’s events.  
+The price for the Friday workshop is 20.000 ISK and it includes participation in the Friday workshop, dormitory-style accommodation from Thursday - Sunday and meals for the period of the workshop and access to all of the festival’s events.  
 
 Sign up for the workshops - 1st of May 2019
 
