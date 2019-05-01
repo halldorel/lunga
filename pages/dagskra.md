@@ -37,7 +37,7 @@ Gjald fyrir viku námskeið er 48.000kr og innifalið í því verði er þáttt
 
 Gjald fyrir Föstudagsnámskeið er 20.000kr og innifalið í því verði er þátttaka í listasmiðjuna, gisting, fæði á meðan námskeiðinu stendur og aðgangur að öllum viðburðum hátíðarinnar.
 
-Skráning í listasmiðjur - Hefst 1. maí.
+Skráning í listasmiðjur er nú hafin - Sráðu þig [HÉR!](https://podio.com/webforms/22616421/1597324)
 
 Hlökkum til að sjá ykkur á LungA!
 
