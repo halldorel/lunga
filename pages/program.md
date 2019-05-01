@@ -37,7 +37,7 @@ The price for the week-long workshop is 48.000 ISK. That includes participation 
 
 The price for the Friday workshop is 20.000 ISK and it includes participation in the Friday workshop, dormitory-style accommodation from Thursday - Sunday and meals for the period of the workshop and access to all of the festival’s events.  
 
-Sign up for the workshops - 1st of May 2019
+Sign up for the workshops have now started- Sign up [HERE!](https://podio.com/webforms/22616421/1597324)
 
 ![null](/img/uploads/lunga-1-64.jpg)
 
