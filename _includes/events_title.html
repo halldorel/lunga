@@ -1,19 +1,8 @@
 {% if page.lang == "en" %}
 <h3 style="margin:40px 40px 0px 40px;background-color:white;">EVENTS</h3>
+{% include events.html %}
 
-<div style="margin-left:40px;margin-right:40px;background-color:white;text-align:center;">
-<p style="text-align: center;">
-  The program for LungA 2019 will be announced soon!
-</p>
-</div>
-  <!--{% include events.html %}-->
 {% else %}
 <h3 style="margin:40px 40px 0px 40px;background-color:white;">VIÐBURÐIR</h3>
-
-<div style="margin-left:40px;margin-right:40px;background-color:white;text-align:center;">
-  <p style="text-align: center;">
-    Dagskráin fyrir LungA 2019 verður tilkynnt fljótlega!
-  </p>
-</div>
-  <!--{% include events.html %}-->
+{% include events.html %}
 {% endif %}
