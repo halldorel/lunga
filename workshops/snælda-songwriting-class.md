@@ -97,9 +97,7 @@ body_is: >-
   bæði á rafgítar og tónsmíðar og gegnir ýmsum trúnaðarstörfum.
 
 
-
-
-  Sækja um [HERE!](https://podio.com/webforms/22616421/1597324)
+  Sækja um [HÉR!](https://podio.com/webforms/22616421/1597324)
 cover_photo: /img/uploads/snaelda.jpg
 type: workshop
 ---
