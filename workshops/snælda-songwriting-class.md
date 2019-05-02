@@ -7,8 +7,6 @@ body_is: >-
   hvernig ber að vinna í hljóðveri.
 
 
-
-
   Megin markmið námskeiðsins eru kennsla á sjálfstæðum vinnubrögðum við
   lagasmíðar þar sem kennd verða helstu undirstöðuatriði tónlistarforritsins
   Ableton live, farið er yfir helstu tækniatriði við hljóðupptökur, veitt aðstoð
@@ -24,11 +22,7 @@ body_is: >-
   kostur en er ekki skilyrði
 
 
-
-
   Leiðbeinendur
-
-
 
 
   Logi Pedro fæddist árið 1992 í Portúgal en fluttist til Íslands árið 1995. Frá
@@ -62,8 +56,6 @@ body_is: >-
   [www.logipedro.com](www.logipedro.com)
 
 
-
-
   Jófríður Ákadóttir er tónlistarmaður frá Reykjavík en hefur verið búsett í
   Brooklyn, New York frá byrjun árs 2017. Hún hefur lengi verið virk í íslensku
   tónlistarlífi sem meðlimur í hljómsveitunum Samaris, Pascal Pinon og Gangly en
@@ -86,8 +78,6 @@ body_is: >-
   [www.jfdrcurrent.com](www.jfdrcurrent.com)
 
 
-
-
   Unnsteinn Manuel Stefánsson fæddist árið 1990 og hóf tónlistarferil sinn sem
   söngvari og tónsmiður hljómsveitarinnar Retro Stefson. Hljómsveitin starfaði á
   árunum 2006-2016 og á þeim tíma gaf hún út 3 plötur og 2 stuttskífur m.a.
@@ -105,6 +95,11 @@ body_is: >-
   útgáfufyrirtækið Les Frères Stefson sem hefur undanfarið ár átt að meðaltali 3
   lög af tíu af þeim mest hlustuðu á Spotify á Íslandi. Unnsteinn hefur kennt
   bæði á rafgítar og tónsmíðar og gegnir ýmsum trúnaðarstörfum.
+
+
+
+
+  Sækja um [HERE!](https://podio.com/webforms/22616421/1597324)
 cover_photo: /img/uploads/snaelda.jpg
 type: workshop
 ---
@@ -116,8 +111,6 @@ The main aim of the program is to make the students self-sufficient within the s
 
 Students are asked to bring computer and headphones. It would be great if they have Ableton live software but it is not required.
 
-
-
 Logi Pedro was born in 1992 in Portugal and moved to Iceland in 1995. From 2006 to 2016 he was a member of one of the leading Icelandic bands, Retro Stefson. Along with being prominant on the Icealndic music scene, the band made major publishing agreements with Universal Music and Sony ATV in 2010 and spent most of the years 2011-2013 playing abroad.
 
 Logi Pedro joined a new band in 2013, Young Karin, who has played on both sides of the Atlantic on various musical festivals. The band was awarded the Icelandic Music Prize as the 2014 newcomer album for their first EP.
@@ -127,8 +120,6 @@ Logi has produced and arranged for various musicians, for example Gus Gus, Skít
 Logi runs the record label Les Fréres Stefson alongside with his brother, Unnsteinn Manuel. On their roster are artists such as Floni, Birnir, Sturla Atlas and Joey Christ. Logi has been on a consultant panel for EBU Eurovision, Iceland Airwaves and The Icelandic National Broadcasting Service (RÚV). Last summer Logi released his first solo album that was on all top lists in Iceland. 
 
 [www.logipedro.com](www.logipedro.com)
-
-
 
 Jófríður Ákadóttir, known professionally as JFDR, is an Icelandic singer, songwriter and multi-instrumentalist born in 1994. She is known for her solo project JFDR as well as her work with Samaris, Pascal Pinon and Gangly and works closely with producer and multi-instrumentalist Shahzad Ismaily. 
 
@@ -141,3 +132,7 @@ In 2014, Ákadóttir was involved with the conceptual project Gangly with Sindri
 Unnsteinn Manuel Stefánsson was born in 1990 and started his musical career as a singer and composer of the band Retro Stefson. The band worked in 2006-2016 and at that time she released 3 albums and 2 short albums. They released an album with Universal Music and played in over 28 countries and held hundreds of concerts throughout Iceland. Retro Stefson also received numerous awards and a nomination for the Nordic Music Prize.
 
 In addition to working as a musician, Unnsteinn has worked on program production at the Icelandic National Broadcasting Service (RÚV), and was Unnsteinn awarded as the Television figure of the year. In 2012, Unnsteinn founded the publishing company Les Frères Stefson, which has in the past year had an average of 3 songs out of 10 of the most listened to Spotify in Iceland. Unnsteinn has taught both electric guitar and composition and performs various confidential tasks.
+
+
+
+Sign up [HERE!](https://podio.com/webforms/22616421/1597324)
