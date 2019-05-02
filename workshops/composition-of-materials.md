@@ -20,6 +20,11 @@ body_is: >-
 
 
   [www.lenschowpihlmann.dk](https://www.lenschowpihlmann.dk/)
+
+
+
+
+  Sækja um [HÉR!](https://podio.com/webforms/22616421/1597324)
 cover_photo: /img/uploads/lunga_19_1.jpg
 type: workshop
 ---
@@ -32,3 +37,7 @@ Our workshop will be about rethinking the composition of materials through diffe
 We are a young danish couple living I Copenhagen. Both architects graduated from The Royal Danish Academy of Fine Arts, the school of architecture in Copenhagen. Our common ground of how to understand architecture is through the material, history and cultural heritage.
 
 [www.lenschowpihlmann.dk](https://www.lenschowpihlmann.dk/)
+
+
+
+Sign up [HERE!](https://podio.com/webforms/22616421/1597324)
