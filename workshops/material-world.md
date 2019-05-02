@@ -28,9 +28,7 @@ body_is: >-
   [www.bjornsteinar.com](http://www.bjornsteinar.com/)
 
 
-
-
-  Skráðu þig [HÉR!](https://podio.com/webforms/22616421/1597324)
+  Sækja um [HÉR!](https://podio.com/webforms/22616421/1597324)
 cover_photo: /img/uploads/things-come-apart-_-todd-mclellan.jpg
 type: workshop
 ---
