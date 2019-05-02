@@ -21,9 +21,7 @@ body_is: >-
   Að Falla og Rökkur.
 
 
-
-
-  Skráðu þig [HÉR!](https://podio.com/webforms/22616421/1597324)
+  Sækja um [HÉR!](https://podio.com/webforms/22616421/1597324)
 cover_photo: /img/uploads/björnstefánsson_2.jpg
 type: workshop
 ---
