@@ -11,8 +11,6 @@ body_is: >-
   skapberðir til að byggja upp jákvæða sjálfsvitund.
 
 
-
-
   Hrafnhildur Arnardóttir / Shoplifter (f. 1969), er íslenskur myndlistarmaður
   sem búsett er í New York. Á undanförnum 15 árum hefur hún á umfangsmikinn hátt
   kannað notkun og táknrænt eðli hárs, og sjónræna og listræna möguleika
@@ -30,15 +28,22 @@ body_is: >-
 
 
   _(photo by Magnús Unnar)_
+
+
+
+
+  Sækja um [HÉR!](https://podio.com/webforms/22616421/1597324)
 cover_photo: /img/uploads/shopi_blue_portrait_magnus-unnar.jpg
 type: workshop
 ---
 MOODS workshop will focus on recognizing and detecting our mood and exploring the variety we might experience daily over the course of one week. We will discuss how we respond to different moods and how to harness them to our benefit through creative activities. Participants can use any material or medium of their choice and according to availability (TBD), using creativity to navigate and harness different moods and build self awareness.
-
-
 
 Hrafnhildur Arnardóttir / Shoplifter (b. 1969) is one of Iceland’s leading contemporary artists, based in New York working with both synthetic and natural hair. Her sculptures, wall murals and site-specific installations explore themes of vanity, self-image, fashion, beauty and popular myth.
 
 [www.shoplifter.us](http://www.shoplifter.us/)
 
 _(photo by Magnús Unnar)_
+
+
+
+Sign up [HERE!](https://podio.com/webforms/22616421/1597324)
