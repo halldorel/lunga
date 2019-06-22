@@ -13,17 +13,22 @@ layout: default
 
 
 {% include navigation.html %}
+
 {% for section in page.sections %}
+
 {% if section == "concert" %}
 {% include concert.html %}
-{% elsif section == "instagram" %}
-{% include instagram.html %}
-{% elsif section == "workshops" %}
-{% include workshops_title.html %}
-{% elsif section == "paper" %}
-{% include paper.html %}
+
+
 {% elsif section == "events" %}
 {% include events_title.html %}
+
+{% elsif section == "workshops" %}
+{% include workshops_title.html %}
+
+
+
+
 {% endif %}
 {% endfor %}
 
