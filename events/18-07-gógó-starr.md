@@ -16,7 +16,7 @@ body_is: >-
   kjarnameðlimur Reykjavík Kabarett. Ótrúlega fierce, fyndin og undursamlega
   flott dragdrottning, áreynslulauslega blandar Gógó saman dragi og boylesque
   (draglesque í stuttu) á undurfagran máta - CLASSY, SASSY og GASSY!
-cover_photo: /img/uploads/_bic2679_by_bicnick-1.jpg
+cover_photo: /img/uploads/screen-shot-2019-07-02-at-18.39.01.png
 type: event
 ---
 Drag Show 18.07 at 21:00
