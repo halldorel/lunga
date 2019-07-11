@@ -27,7 +27,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 body {
     line-height: 1;
     color: black;
-    background: white;
+    background: red;
 }
 
 ol, ul {
@@ -62,7 +62,7 @@ body {
     font-size: 11px;
     line-height: 1.8em;
     color: #919191;
-    background: #fff;
+    background:red;
     padding: 60px 60px 60px 100px;
     width: 660px; }
 
