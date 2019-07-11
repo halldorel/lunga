@@ -1,0 +1,29 @@
+body.tmblr-iframe-overlay.tmblr-iframe-themed.tmblr-iframe-compact {
+    background-image: url("https://www.lunga.is/assets/img/globe.gif");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+
+}
+
+#header {
+    height:300px;
+    background-image: url("https://www.lunga.is/assets/img/logo-green.svg");
+    background-repeat: no-repeat;
+
+    background-size: 300px;
+}
+#footer {
+    display: none;
+}
+
+body.post {
+    max-width:1000px;
+    height: auto;
+}
+
+.photo.post {
+    width: 1000px;
+    height: auto:;
+}
+
+
